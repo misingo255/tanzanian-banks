@@ -5,6 +5,8 @@ import json
 class Banks(object):
     SYSTEM_PATH = os.getcwd()
     BANKS_FILE = os.path.join(SYSTEM_PATH, "data/banks.json")
+    BANKS_BRANCHES_FILE = os.path.join(SYSTEM_PATH, "data/branches.json")
+    BANKS_CONTACTS_FILE = os.path.join(SYSTEM_PATH, "data/contacts.json")
 
     def get_file_data(self, json_file_path: str):
         with open(json_file_path, "r") as file:
@@ -36,6 +38,9 @@ class Banks(object):
         pass
 
     def get_regional_branches(self, bank_code: str, region_code: str):
+        pass
+
+    def get_bank_contacts(self, bank_code: str):
         pass
 
     def count(self):

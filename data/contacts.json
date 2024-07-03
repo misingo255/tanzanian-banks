@@ -1,7 +1,6 @@
 [
     {
-        "No.": 1,
-        "Name of Institution": "UNITED BANK FOR AFRICA TANZANIA LIMITED",
+        "code": "UBATL",
         "Contact person": "OLUGBENGA MAKINDE",
         "Contact Details": {
             "Tel": "+255 22 286 4468",
@@ -13,7 +12,7 @@
         }
     },
     {
-        "No.": 2,
+        "code": 2,
         "Name of Institution": "ECOBANK TANZANIA LIMITED",
         "Contact person": "MR. CHARLES ASIEDU",
         "Contact Details": {
@@ -26,7 +25,7 @@
         }
     },
     {
-        "No.": 3,
+        "code": 3,
         "Name of Institution": "MKOMBOZI COMMERCIAL BANK PLC",
         "Contact person": "MR. RESPIGE KIMATI",
         "Contact Details": {
@@ -39,7 +38,7 @@
         }
     },
     {
-        "No.": 4,
+        "code": 4,
         "Name of Institution": "CANARA BANK TANZANIA LIMITED",
         "Contact person": "TANJORE BALAJI RAO",
         "Contact Details": {
@@ -52,7 +51,7 @@
         }
     },
     {
-        "No.": 5,
+        "code": 5,
         "Name of Institution": "BANK OF BARODA TANZANIA LIMITED",
         "Contact person": "ADITYA NARAYAN SINGH",
         "Contact Details": {
@@ -65,7 +64,7 @@
         }
     },
     {
-        "No.": 6,
+        "code": 6,
         "Name of Institution": "STANBIC BANK TANZANIA LTD",
         "Contact person": "MR. KEVIN WINGFIELD",
         "Contact Details": {
@@ -78,7 +77,7 @@
         }
     },
     {
-        "No.": 7,
+        "code": 7,
         "Name of Institution": "BANK OF AFRICA TANZANIA LIMITED",
         "Contact person": "MR. ADAM MIHAYO",
         "Contact Details": {
@@ -91,7 +90,7 @@
         }
     },
     {
-        "No.": 8,
+        "code": 8,
         "Name of Institution": "HABIB AFRICAN BANK LIMITED",
         "Contact person": "DR. HASSAN S. RIZVI",
         "Contact Details": {
@@ -104,7 +103,7 @@
         }
     },
     {
-        "No.": 9,
+        "code": 9,
         "Name of Institution": "KCB BANK TANZANIA LIMITED",
         "Contact person": "MR. COSMAS KIMARIO",
         "Contact Details": {
@@ -117,7 +116,7 @@
         }
     },
     {
-        "No.": 10,
+        "code": 10,
         "Name of Institution": "AKIBA COMMERCIAL BANK PLC",
         "Contact person": "MR. SYLIVESTER ARUMASI",
         "Contact Details": {
@@ -130,7 +129,7 @@
         }
     },
     {
-        "No.": 11,
+        "code": 11,
         "Name of Institution": "NCBA BANK TANZANIA LIMITED",
         "Contact person": "CLAVER SERUMAGA",
         "Contact Details": {
@@ -143,7 +142,7 @@
         }
     },
     {
-        "No.": 12,
+        "code": 12,
         "Name of Institution": "NMB BANK PLC",
         "Contact person": "MS. RUTH ZAIPUNA",
         "Contact Details": {
@@ -156,7 +155,7 @@
         }
     },
     {
-        "No.": 13,
+        "code": 13,
         "Name of Institution": "NATIONAL BANK OF COMMERCE LIMITED",
         "Contact person": "MR. THEOBALD M. SABI",
         "Contact Details": {
@@ -169,7 +168,7 @@
         }
     },
     {
-        "No.": 14,
+        "code": 14,
         "Name of Institution": "INTERNATIONAL COMMERCIAL BANK  TANZANIA LTD",
         "Contact person": "SANJEEV KEWAL ANAND",
         "Contact Details": {
@@ -182,7 +181,7 @@
         }
     },
     {
-        "No.": 15,
+        "code": 15,
         "Name of Institution": "AZANIA BANK PUBLIC LIMITED COMPANY",
         "Contact person": "MS. ESTHER MANG'ENYA",
         "Contact Details": {
@@ -195,7 +194,7 @@
         }
     },
     {
-        "No.": 16,
+        "code": 16,
         "Name of Institution": "ABSA BANK TANZANIA LIMITED",
         "Contact person": "MR. ABDI MOHAMUD MOHAMED",
         "Contact Details": {
@@ -208,7 +207,7 @@
         }
     },
     {
-        "No.": 17,
+        "code": 17,
         "Name of Institution": "I & M BANK TANZANIA LIMITED",
         "Contact person": "ZAHID MUSTAFA",
         "Contact Details": {
@@ -221,7 +220,7 @@
         }
     },
     {
-        "No.": 18,
+        "code": 18,
         "Name of Institution": "AFRICAN BANKING CORPORATION TANZANIA LTD",
         "Contact person": "MR. IMANI JOHN BGOYA",
         "Contact Details": {
@@ -234,7 +233,7 @@
         }
     },
     {
-        "No.": 19,
+        "code": 19,
         "Name of Institution": "PEOPLES BANK OF ZANZIBAR LIMITED",
         "Contact person": "DR. MUHSIN MASOUD",
         "Contact Details": {
@@ -247,7 +246,7 @@
         }
     },
     {
-        "No.": 20,
+        "code": 20,
         "Name of Institution": "CITIBANK TANZANIA LIMITED",
         "Contact person": "GEOFREY DANIEL MCHANGILA",
         "Contact Details": {
@@ -260,7 +259,7 @@
         }
     },
     {
-        "No.": 21,
+        "code": 21,
         "Name of Institution": "CRDB BANK PLC",
         "Contact person": "ABDUMAJID MUSA NSEKELA",
         "Contact Details": {
@@ -273,7 +272,7 @@
         }
     },
     {
-        "No.": 22,
+        "code": 22,
         "Name of Institution": "TANZANIA COMMERCIAL BANK PLC",
         "Contact person": "MR. SABASABA MOSHINGI",
         "Contact Details": {
@@ -286,7 +285,7 @@
         }
     },
     {
-        "No.": 23,
+        "code": 23,
         "Name of Institution": "DIAMOND TRUST BANK TANZANIA PUBLIC LIMITED COMPANY",
         "Contact person": "RAVNEET CHOWDHURY",
         "Contact Details": {
@@ -299,7 +298,7 @@
         }
     },
     {
-        "No.": 24,
+        "code": 24,
         "Name of Institution": "STANDARD CHARTERED BANK TANZANIA LTD",
         "Contact person": "HERMAN KASENDEKA",
         "Contact Details": {
@@ -312,7 +311,7 @@
         }
     },
     {
-        "No.": 25,
+        "code": 25,
         "Name of Institution": "EXIM BANK TANZANIA LIMITED",
         "Contact person": "MR. JAFFARI MATUNDU",
         "Contact Details": {
@@ -325,7 +324,7 @@
         }
     },
     {
-        "No.": 26,
+        "code": 26,
         "Name of Institution": "LETSHEGO FAIDIKA BANK TANZANIA LIMITED",
         "Contact person": "MR BARAKA MUNISI (ACTING)",
         "Contact Details": {
@@ -338,7 +337,7 @@
         }
     },
     {
-        "No.": 27,
+        "code": 27,
         "Name of Institution": "AMANA BANK LIMITED",
         "Contact person": "ABUBAKAR ATHMAN ALI",
         "Contact Details": {
@@ -351,7 +350,7 @@
         }
     },
     {
-        "No.": 28,
+        "code": 28,
         "Name of Institution": "EQUITY BANK TANZANIA LIMITED",
         "Contact person": "MS. ISABELA MAGANGA (AG.)",
         "Contact Details": {
@@ -364,7 +363,7 @@
         }
     },
     {
-        "No.": 29,
+        "code": 29,
         "Name of Institution": "MWALIMU COMMERCIAL BANK PLC",
         "Contact person": "RICHARD MAKUNGWA",
         "Contact Details": {
@@ -377,7 +376,7 @@
         }
     },
     {
-        "No.": 30,
+        "code": 30,
         "Name of Institution": "GUARANTY TRUST BANK TANZANIA LIMITED",
         "Contact person": "ODUNAYO AKINYEDE",
         "Contact Details": {
@@ -390,7 +389,7 @@
         }
     },
     {
-        "No.": 31,
+        "code": 31,
         "Name of Institution": "CHINA DASHENG BANK LIMITED",
         "Contact person": "CHENG JI",
         "Contact Details": {
@@ -403,7 +402,7 @@
         }
     },
     {
-        "No.": 32,
+        "code": 32,
         "Name of Institution": "DCB COMMERCIAL BANK PLC",
         "Contact person": "ISIDORY MSAKI (ACTING)",
         "Contact Details": {
@@ -416,7 +415,7 @@
         }
     },
     {
-        "No.": 33,
+        "code": 33,
         "Name of Institution": "BANK OF INDIA TANZANIA LIMITED",
         "Contact person": "MR. ANTARYAMI SARANGI",
         "Contact Details": {
@@ -429,7 +428,7 @@
         }
     },
     {
-        "No.": 34,
+        "code": 34,
         "Name of Institution": "MWANGA HAKIKA BANK LTD",
         "Contact person": "MR. JAGJIT SINGH",
         "Contact Details": {
@@ -442,7 +441,7 @@
         }
     },
     {
-        "No.": 35,
+        "code": 35,
         "Name of Institution": "TRADE AND DEVELOPMENT BANK TANZANIA LTD",
         "Contact person": "MR. ALFRED SHOO",
         "Contact Details": {
@@ -455,7 +454,7 @@
         }
     },
     {
-        "No.": 36,
+        "code": 36,
         "Name of Institution": "JAMII BORA BANK TANZANIA LIMITED",
         "Contact person": "MR. JOHN SIRIA",
         "Contact Details": {
@@ -468,7 +467,7 @@
         }
     },
     {
-        "No.": 37,
+        "code": 37,
         "Name of Institution": "BANK OF AFRICA - TANZANIA",
         "Contact person": "SIMON NYAKO",
         "Contact Details": {
