@@ -1,482 +1,451 @@
-[
-    {
-        "code": "UBATL",
-        "Contact person": "OLUGBENGA MAKINDE",
-        "Contact Details": {
-            "Tel": "+255 22 286 4468",
-            "Fax": "+255 22 286 3454",
-            "Email": "CUSTOMERSERVICETZ@UBAGROUP.COM"
+{
+    "contacts": [
+        {
+            "code": "UBATL",
+            "contact_person": "OLUGBENGA MAKINDE",
+            "contact_details": {
+                "telephone": "+255 22 286 4468",
+                "fax": "+255 22 286 3454",
+                "email": "CUSTOMERSERVICETZ@UBAGROUP.COM"
+            },
+            "address": {
+                "postal_box": "80514, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "80514, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 2,
-        "Name of Institution": "ECOBANK TANZANIA LIMITED",
-        "Contact person": "MR. CHARLES ASIEDU",
-        "Contact Details": {
-            "Tel": "+255 22 213 7447",
-            "Fax": "+255 22 213 7446",
-            "Email": "ECOBANK@ECOBANK.CO.TZ"
+        {
+            "code": "ECBT",
+            "contact_person": "MR. CHARLES ASIEDU",
+            "contact_details": {
+                "telephone": "+255 22 213 7447",
+                "fax": "+255 22 213 7446",
+                "email": "ECOBANK@ECOBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "20500, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "20500, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 3,
-        "Name of Institution": "MKOMBOZI COMMERCIAL BANK PLC",
-        "Contact person": "MR. RESPIGE KIMATI",
-        "Contact Details": {
-            "Tel": "+255 22 213 7806",
-            "Fax": "+255 22 213 7802",
-            "Email": "INFO@MKOMBOZIBANK.CO.TZ"
+        {
+            "code": "MKCB",
+            "contact_person": "MR. RESPIGE KIMATI",
+            "contact_details": {
+                "telephone": "+255 22 213 7806",
+                "fax": "+255 22 213 7802",
+                "email": "INFO@MKOMBOZIBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "38448, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "38448, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 4,
-        "Name of Institution": "CANARA BANK TANZANIA LIMITED",
-        "Contact person": "TANJORE BALAJI RAO",
-        "Contact Details": {
-            "Tel": "+255 22 211 2530-3",
-            "Fax": "+255 22 211 2534",
-            "Email": "MDCBTL@CANARABANK.CO.TZ"
+        {
+            "code": "CBTL",
+            "contact_person": "TANJORE BALAJI RAO",
+            "contact_details": {
+                "telephone": "+255 22 211 2530-3",
+                "fax": "+255 22 211 2534",
+                "email": "MDCBTL@CANARABANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "491, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "491, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 5,
-        "Name of Institution": "BANK OF BARODA TANZANIA LIMITED",
-        "Contact person": "ADITYA NARAYAN SINGH",
-        "Contact Details": {
-            "Tel": "+255 22 212 4472",
-            "Fax": "+255 22 212 4457",
-            "Email": "MD.TANZANIA@BANKOFBARODA.COM"
+        {
+            "code": "BOBTL",
+            "contact_person": "ADITYA NARAYAN SINGH",
+            "contact_details": {
+                "telephone": "+255 22 212 4472",
+                "fax": "+255 22 212 4457",
+                "email": "MD.TANZANIA@BANKOFBARODA.COM"
+            },
+            "address": {
+                "postal_box": "5356, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "5356, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 6,
-        "Name of Institution": "STANBIC BANK TANZANIA LTD",
-        "Contact person": "MR. KEVIN WINGFIELD",
-        "Contact Details": {
-            "Tel": "+255 22 266 6430",
-            "Fax": "+255 22 266 6301",
-            "Email": "INFO@STANBICBANK.CO.TZ"
+        {
+            "code": "SBTL",
+            "contact_person": "MR. KEVIN WINGFIELD",
+            "contact_details": {
+                "telephone": "+255 22 266 6430",
+                "fax": "+255 22 266 6301",
+                "email": "INFO@STANBICBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "72647, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "72647, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 7,
-        "Name of Institution": "BANK OF AFRICA TANZANIA LIMITED",
-        "Contact person": "MR. ADAM MIHAYO",
-        "Contact Details": {
-            "Tel": "+255 22 211 0104",
-            "Fax": "+255 22 211 3740",
-            "Email": "MARKETING@BOATANZANIA.COM"
+        {
+            "code": "BOATL",
+            "contact_person": "MR. ADAM MIHAYO",
+            "contact_details": {
+                "telephone": "+255 22 211 0104",
+                "fax": "+255 22 211 3740",
+                "email": "MARKETING@BOATANZANIA.COM"
+            },
+            "address": {
+                "postal_box": "3054, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "3054, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 8,
-        "Name of Institution": "HABIB AFRICAN BANK LIMITED",
-        "Contact person": "DR. HASSAN S. RIZVI",
-        "Contact Details": {
-            "Tel": "+255 22 211 1107",
-            "Fax": "+255 22 211 1014",
-            "Email": "INFO@HABIBAFRICANBANK.CO.TZ"
+        {
+            "code": "HABL",
+            "contact_person": "DR. HASSAN S. RIZVI",
+            "contact_details": {
+                "telephone": "+255 22 211 1107",
+                "fax": "+255 22 211 1014",
+                "email": "INFO@HABIBAFRICANBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "70086, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "70086, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 9,
-        "Name of Institution": "KCB BANK TANZANIA LIMITED",
-        "Contact person": "MR. COSMAS KIMARIO",
-        "Contact Details": {
-            "Tel": "+255 22 266 4388",
-            "Fax": "+255 22 211 5391",
-            "Email": "CUSTOMERCARE@KCBGROUP.COM"
+        {
+            "code": "KCBTL",
+            "contact_person": "MR. COSMAS KIMARIO",
+            "contact_details": {
+                "telephone": "+255 22 266 4388",
+                "fax": "+255 22 211 5391",
+                "email": "CUSTOMERCARE@KCBGROUP.COM"
+            },
+            "address": {
+                "postal_box": "804, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "804, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 10,
-        "Name of Institution": "AKIBA COMMERCIAL BANK PLC",
-        "Contact person": "MR. SYLIVESTER ARUMASI",
-        "Contact Details": {
-            "Tel": "+255 22 211 8430-7",
-            "Fax": "+255 22 211 4173",
-            "Email": "INFO@ACBTZ.CO.TZ"
+        {
+            "code": "AKCBT",
+            "contact_person": "MR. SYLIVESTER ARUMASI",
+            "contact_details": {
+                "telephone": "+255 22 211 8430-7",
+                "fax": "+255 22 211 4173",
+                "email": "INFO@ACBTZ.CO.TZ"
+            },
+            "address": {
+                "postal_box": "669, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "669, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 11,
-        "Name of Institution": "NCBA BANK TANZANIA LIMITED",
-        "Contact person": "CLAVER SERUMAGA",
-        "Contact Details": {
-            "Tel": "+255 22 229 5000",
-            "Fax": "+255 22 211 6733",
-            "Email": "TANZANIAINFO@NIC-BANK.COM"
+        {
+            "code": "NCBA",
+            "contact_person": "CLAVER SERUMAGA",
+            "contact_details": {
+                "telephone": "+255 22 229 5000",
+                "fax": "+255 22 211 6733",
+                "email": "TANZANIAINFO@NIC-BANK.COM"
+            },
+            "address": {
+                "postal_box": "20268, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "20268, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 12,
-        "Name of Institution": "NMB BANK PLC",
-        "Contact person": "MS. RUTH ZAIPUNA",
-        "Contact Details": {
-            "Tel": "+255 22 232 2000",
-            "Fax": "+255 22 211 2148",
-            "Email": "INFO@NMBBANK.CO.TZ"
+        {
+            "code": "NMB",
+            "contact_person": "MS. RUTH ZAIPUNA",
+            "contact_details": {
+                "telephone": "+255 22 232 2000",
+                "fax": "+255 22 211 2148",
+                "email": "INFO@NMBBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "9213, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "9213, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 13,
-        "Name of Institution": "NATIONAL BANK OF COMMERCE LIMITED",
-        "Contact person": "MR. THEOBALD M. SABI",
-        "Contact Details": {
-            "Tel": "+255 22 211 3914",
-            "Fax": "+255 22 211 2887",
-            "Email": "CONTACTCENTRE@NBCTZ.COM"
+        {
+            "code": "NBC",
+            "contact_person": "MR. THEOBALD M. SABI",
+            "contact_details": {
+                "telephone": "+255 22 211 3914",
+                "fax": "+255 22 211 2887",
+                "email": "CONTACTCENTRE@NBCTZ.COM"
+            },
+            "address": {
+                "postal_box": "1863, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "1863, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 14,
-        "Name of Institution": "INTERNATIONAL COMMERCIAL BANK  TANZANIA LTD",
-        "Contact person": "SANJEEV KEWAL ANAND",
-        "Contact Details": {
-            "Tel": "+255 22 215 0361-2",
-            "Fax": "+255 22 215 1591",
-            "Email": "ENQUIRY@ICBANK.CO.TZ"
+        {
+            "code": "ICBTL",
+            "contact_person": "SANJEEV KEWAL ANAND",
+            "contact_details": {
+                "telephone": "+255 22 215 0361-2",
+                "fax": "+255 22 215 1591",
+                "email": "ENQUIRY@ICBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "9362, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "9362, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 15,
-        "Name of Institution": "AZANIA BANK PUBLIC LIMITED COMPANY",
-        "Contact person": "MS. ESTHER MANG'ENYA",
-        "Contact Details": {
-            "Tel": "+255 22 241 2025-7",
-            "Fax": "+255 22 241 2028",
-            "Email": "INFO@AZANIABANK.CO.TZ"
+        {
+            "code": "AZBT",
+            "contact_person": "MS. ESTHER MANG'ENYA",
+            "contact_details": {
+                "telephone": "+255 22 241 2025-7",
+                "fax": "+255 22 241 2028",
+                "email": "INFO@AZANIABANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "9271, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "9271, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 16,
-        "Name of Institution": "ABSA BANK TANZANIA LIMITED",
-        "Contact person": "MR. ABDI MOHAMUD MOHAMED",
-        "Contact Details": {
-            "Tel": "+255 22 212 9381",
-            "Fax": "+255 22 212 9757",
-            "Email": "INFO@BARCLAYS.CO.TZ"
+        {
+            "code": "ABBT",
+            "contact_person": "MR. ABDI MOHAMUD MOHAMED",
+            "contact_details": {
+                "telephone": "+255 22 212 9381",
+                "fax": "+255 22 212 9757",
+                "email": "INFO@BARCLAYS.CO.TZ"
+            },
+            "address": {
+                "postal_box": "5137, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "5137, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 17,
-        "Name of Institution": "I & M BANK TANZANIA LIMITED",
-        "Contact person": "ZAHID MUSTAFA",
-        "Contact Details": {
-            "Tel": "+255 22 212 7330-4",
-            "Fax": "+255 22 211 7336",
-            "Email": "CUSTOMERCARE@IMBANK.CO.TZ"
+        {
+            "code": "IMBT",
+            "contact_person": "ZAHID MUSTAFA",
+            "contact_details": {
+                "telephone": "+255 22 212 7330-4",
+                "fax": "+255 22 211 7336",
+                "email": "CUSTOMERCARE@IMBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "1509, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "1509, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 18,
-        "Name of Institution": "AFRICAN BANKING CORPORATION TANZANIA LTD",
-        "Contact person": "MR. IMANI JOHN BGOYA",
-        "Contact Details": {
-            "Tel": "+255 22 211 9422",
-            "Fax": "+255 22 211 2402",
-            "Email": "INFO@BANCABC.CO.TZ"
+        {
+            "code": "ABCTL",
+            "contact_person": "MR. IMANI JOHN BGOYA",
+            "contact_details": {
+                "telephone": "+255 22 211 9422",
+                "fax": "+255 22 211 2402",
+                "email": "INFO@BANCABC.CO.TZ"
+            },
+            "address": {
+                "postal_box": "31, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "31, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 19,
-        "Name of Institution": "PEOPLES BANK OF ZANZIBAR LIMITED",
-        "Contact person": "DR. MUHSIN MASOUD",
-        "Contact Details": {
-            "Tel": "+255 24 223 1118-20",
-            "Fax": "+255 24 223 1121",
-            "Email": "INFO@PBZBANK.CO.TZ"
+        {
+            "code": "PBZ",
+            "contact_person": "DR. MUHSIN MASOUD",
+            "contact_details": {
+                "telephone": "+255 24 223 1118-20",
+                "fax": "+255 24 223 1121",
+                "email": "INFO@PBZBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "1173, ZANZIBAR"
+            }
         },
-        "Address": {
-            "P.O. Box": "1173, ZANZIBAR"
-        }
-    },
-    {
-        "code": 20,
-        "Name of Institution": "CITIBANK TANZANIA LIMITED",
-        "Contact person": "GEOFREY DANIEL MCHANGILA",
-        "Contact Details": {
-            "Tel": "255 22 211 1200",
-            "Fax": "+255 22 211 7576",
-            "Email": "INFO@CITIBANK.CO.TZ"
+        {
+            "code": "CBTZ",
+            "contact_person": "GEOFREY DANIEL MCHANGILA",
+            "contact_details": {
+                "telephone": "255 22 211 1200",
+                "fax": "+255 22 211 7576",
+                "email": "INFO@CITIBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "71625, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "71625, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 21,
-        "Name of Institution": "CRDB BANK PLC",
-        "Contact person": "ABDUMAJID MUSA NSEKELA",
-        "Contact Details": {
-            "Tel": "+255 22 211 7441-7",
-            "Fax": "+255 22 211 6714",
-            "Email": "INFO@CRDBBANK.CO.TZ"
+        {
+            "code": "CRDB",
+            "contact_person": "ABDUMAJID MUSA NSEKELA",
+            "contact_details": {
+                "telephone": "+255 22 211 7441-7",
+                "fax": "+255 22 211 6714",
+                "email": "INFO@CRDBBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "268, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "268, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 22,
-        "Name of Institution": "TANZANIA COMMERCIAL BANK PLC",
-        "Contact person": "MR. SABASABA MOSHINGI",
-        "Contact Details": {
-            "Tel": "+255 22 216 2940",
-            "Fax": "+255 22 277 2075",
-            "Email": "INFO@TPBBANK.CO.TZ"
+        {
+            "code": "TZCB",
+            "contact_person": "MR. SABASABA MOSHINGI",
+            "contact_details": {
+                "telephone": "+255 22 216 2940",
+                "fax": "+255 22 277 2075",
+                "email": "INFO@TPBBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "9300, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "9300, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 23,
-        "Name of Institution": "DIAMOND TRUST BANK TANZANIA PUBLIC LIMITED COMPANY",
-        "Contact person": "RAVNEET CHOWDHURY",
-        "Contact Details": {
-            "Tel": "+255 22 211 4888",
-            "Fax": "+255 22 211 4210",
-            "Email": "CUSTOMERCENTRE@DIAMONDTRUST.CO.TZ"
+        {
+            "code": "DTBT",
+            "contact_person": "RAVNEET CHOWDHURY",
+            "contact_details": {
+                "telephone": "+255 22 211 4888",
+                "fax": "+255 22 211 4210",
+                "email": "CUSTOMERCENTRE@DIAMONDTRUST.CO.TZ"
+            },
+            "address": {
+                "postal_box": "115, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "115, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 24,
-        "Name of Institution": "STANDARD CHARTERED BANK TANZANIA LTD",
-        "Contact person": "HERMAN KASENDEKA",
-        "Contact Details": {
-            "Tel": "+255 22 212 2160-2",
-            "Fax": "+255 22 211 3770",
-            "Email": "CALLCENTRE@SC.COM"
+        {
+            "code": "SCBT",
+            "contact_person": "HERMAN KASENDEKA",
+            "contact_details": {
+                "telephone": "+255 22 212 2160-2",
+                "fax": "+255 22 211 3770",
+                "email": "CALLCENTRE@SC.COM"
+            },
+            "address": {
+                "postal_box": "9011, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "9011, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 25,
-        "Name of Institution": "EXIM BANK TANZANIA LIMITED",
-        "Contact person": "MR. JAFFARI MATUNDU",
-        "Contact Details": {
-            "Tel": "+255 22 229 3400",
-            "Fax": "+255 22 211 9737",
-            "Email": "CUSTOMERCARE@EXIMBANK.CO.TZ"
+        {
+            "code": "EXBT",
+            "contact_person": "MR. JAFFARI MATUNDU",
+            "contact_details": {
+                "telephone": "+255 22 229 3400",
+                "fax": "+255 22 211 9737",
+                "email": "CUSTOMERCARE@EXIMBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "1431, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "1431, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 26,
-        "Name of Institution": "LETSHEGO FAIDIKA BANK TANZANIA LIMITED",
-        "Contact person": "MR BARAKA MUNISI (ACTING)",
-        "Contact Details": {
-            "Tel": "+255 22 240 1174-6",
-            "Fax": "+255 22 240 1175",
-            "Email": "INFO.TZ@LETSHEGO.COM"
+        {
+            "code": "LBT",
+            "contact_person": "MR BARAKA MUNISI (ACTING)",
+            "contact_details": {
+                "telephone": "+255 22 240 1174-6",
+                "fax": "+255 22 240 1175",
+                "email": "INFO.TZ@LETSHEGO.COM"
+            },
+            "address": {
+                "postal_box": "34459, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "34459, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 27,
-        "Name of Institution": "AMANA BANK LIMITED",
-        "Contact person": "ABUBAKAR ATHMAN ALI",
-        "Contact Details": {
-            "Tel": "+255 22 212 9007-8",
-            "Fax": "+255 22 212 9013",
-            "Email": "INFO@AMANABANK.CO.TZ"
+        {
+            "code": "AMBT",
+            "contact_person": "ABUBAKAR ATHMAN ALI",
+            "contact_details": {
+                "telephone": "+255 22 212 9007-8",
+                "fax": "+255 22 212 9013",
+                "email": "INFO@AMANABANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "9771, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "9771, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 28,
-        "Name of Institution": "EQUITY BANK TANZANIA LIMITED",
-        "Contact person": "MS. ISABELA MAGANGA (AG.)",
-        "Contact Details": {
-            "Tel": "+255 768 985 500",
-            "Fax": "+255 22 286 5188",
-            "Email": "INFOTZ@EQUITYBANK.CO.KE"
+        {
+            "code": "EQBT",
+            "contact_person": "MS. ISABELA MAGANGA (AG.)",
+            "contact_details": {
+                "telephone": "+255 768 985 500",
+                "fax": "+255 22 286 5188",
+                "email": "INFOTZ@EQUITYBANK.CO.KE"
+            },
+            "address": {
+                "postal_box": "110183, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "110183, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 29,
-        "Name of Institution": "MWALIMU COMMERCIAL BANK PLC",
-        "Contact person": "RICHARD MAKUNGWA",
-        "Contact Details": {
-            "Tel": "+255 22 277 5131",
-            "Fax": "+255 22 277 2857",
-            "Email": "INFO@MCB.CO.TZ"
+        {
+            "code": "MWCB",
+            "Name of Institution": "MWALIMU COMMERCIAL BANK PLC",
+            "contact_person": "RICHARD MAKUNGWA",
+            "contact_details": {
+                "telephone": "+255 22 277 5131",
+                "fax": "+255 22 277 2857",
+                "email": "INFO@MCB.CO.TZ"
+            },
+            "address": {
+                "postal_box": "61002, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "61002, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 30,
-        "Name of Institution": "GUARANTY TRUST BANK TANZANIA LIMITED",
-        "Contact person": "ODUNAYO AKINYEDE",
-        "Contact Details": {
-            "Tel": "+255 22 277 2533",
-            "Fax": "",
-            "Email": "INFO@GTBANK.CO.TZ"
+        {
+            "code": "GTBL",
+            "contact_person": "ODUNAYO AKINYEDE",
+            "contact_details": {
+                "telephone": "+255 22 277 2533",
+                "fax": "",
+                "email": "INFO@GTBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "31111, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "31111, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 31,
-        "Name of Institution": "CHINA DASHENG BANK LIMITED",
-        "Contact person": "CHENG JI",
-        "Contact Details": {
-            "Tel": "+255 22 212 7586",
-            "Fax": "+255 22 212 7586",
-            "Email": "INFO@CDBBANK.CO.TZ"
+        {
+            "code": "CDBT",
+            "contact_person": "CHENG JI",
+            "contact_details": {
+                "telephone": "+255 22 212 7586",
+                "fax": "+255 22 212 7586",
+                "email": "INFO@CDBBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "388, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "388, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 32,
-        "Name of Institution": "DCB COMMERCIAL BANK PLC",
-        "Contact person": "ISIDORY MSAKI (ACTING)",
-        "Contact Details": {
-            "Tel": "+255 22 217 2200-1",
-            "Fax": "+255 22 217 2199",
-            "Email": "INFO@DCB.CO.TZ"
+        {
+            "code": "DCB",
+            "contact_person": "ISIDORY MSAKI (ACTING)",
+            "contact_details": {
+                "telephone": "+255 22 217 2200-1",
+                "fax": "+255 22 217 2199",
+                "email": "INFO@DCB.CO.TZ"
+            },
+            "address": {
+                "postal_box": "19798, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "19798, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 33,
-        "Name of Institution": "BANK OF INDIA TANZANIA LIMITED",
-        "Contact person": "MR. ANTARYAMI SARANGI",
-        "Contact Details": {
-            "Tel": "+255 22 213 5358",
-            "Fax": "+255 22 213 5363",
-            "Email": "BOITANZANIA@BANKOFINDIA.CO.IN"
+        {
+            "code": "BOIT",
+            "contact_person": "MR. ANTARYAMI SARANGI",
+            "contact_details": {
+                "telephone": "+255 22 213 5358",
+                "fax": "+255 22 213 5363",
+                "email": "BOITANZANIA@BANKOFINDIA.CO.IN"
+            },
+            "address": {
+                "postal_box": "7581, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "7581, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 34,
-        "Name of Institution": "MWANGA HAKIKA BANK LTD",
-        "Contact person": "MR. JAGJIT SINGH",
-        "Contact Details": {
-            "Tel": "+255 747 666 511",
-            "Fax": "",
-            "Email": "INFO@MHBBANK.CO.TZ"
+        {
+            "code": "MHB",
+            "Name of Institution": "MWANGA HAKIKA BANK LTD",
+            "contact_person": "MR. JAGJIT SINGH",
+            "contact_details": {
+                "telephone": "+255 747 666 511",
+                "fax": "",
+                "email": "INFO@MHBBANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "213, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "213, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 35,
-        "Name of Institution": "TRADE AND DEVELOPMENT BANK TANZANIA LTD",
-        "Contact person": "MR. ALFRED SHOO",
-        "Contact Details": {
-            "Tel": "+255 22 211 3611",
-            "Fax": "+255 22 211 3612",
-            "Email": "INFO@TDB.CO.TZ"
+        {
+            "code": "TADBTL",
+            "contact_person": "MR. ALFRED SHOO",
+            "contact_details": {
+                "telephone": "+255 22 211 3611",
+                "fax": "+255 22 211 3612",
+                "email": "INFO@TDB.CO.TZ"
+            },
+            "address": {
+                "postal_box": "896, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "896, DAR ES SALAAM"
-        }
-    },
-    {
-        "code": 36,
-        "Name of Institution": "JAMII BORA BANK TANZANIA LIMITED",
-        "Contact person": "MR. JOHN SIRIA",
-        "Contact Details": {
-            "Tel": "+255 22 211 2836",
-            "Fax": "+255 22 211 2838",
-            "Email": "INFO@JAMIIBORABANK.CO.TZ"
+        {
+            "code": "JBBTL",
+            "contact_person": "MR. JOHN SIRIA",
+            "contact_details": {
+                "telephone": "+255 22 211 2836",
+                "fax": "+255 22 211 2838",
+                "email": "INFO@JAMIIBORABANK.CO.TZ"
+            },
+            "address": {
+                "postal_box": "20955, DAR ES SALAAM"
+            }
         },
-        "Address": {
-            "P.O. Box": "20955, DAR ES SALAAM"
+        {
+            "code": "BOAT",
+            "contact_person": "SIMON NYAKO",
+            "contact_details": {
+                "telephone": "+255 22 212 6136",
+                "fax": "+255 22 212 6137",
+                "email": "INFO@BOATANZANIA.COM"
+            },
+            "address": {
+                "postal_box": "33113, DAR ES SALAAM"
+            }
         }
-    },
-    {
-        "code": 37,
-        "Name of Institution": "BANK OF AFRICA - TANZANIA",
-        "Contact person": "SIMON NYAKO",
-        "Contact Details": {
-            "Tel": "+255 22 212 6136",
-            "Fax": "+255 22 212 6137",
-            "Email": "INFO@BOATANZANIA.COM"
-        },
-        "Address": {
-            "P.O. Box": "33113, DAR ES SALAAM"
-        }
-    }
-]
+    ]
+    
+}

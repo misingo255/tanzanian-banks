@@ -31,6 +31,11 @@
         "code": "BOATL"
       },
       {
+        "name": "Bank of Africa Tanzania",
+        "category": "Commercial Bank",
+        "code": "BOAT"
+      },
+      {
         "name": "Bank of Baroda Tanzania Limited",
         "category": "Commercial Bank",
         "code": "BOBTL"
@@ -91,9 +96,9 @@
         "code": "GTBT"
       },
       {
-        "name": "Habib African Bank",
+        "name": "Habib African Bank Limited",
         "category": "Commercial Bank",
-        "code": "HAB"
+        "code": "HABL"
       },
       {
         "name": "I&M Bank (Tanzania)",
@@ -106,9 +111,9 @@
         "code": "ICT"
       },
       {
-        "name": "KCB Bank Tanzania",
+        "name": "KCB Bank Tanzania Limited",
         "category": "Commercial Bank",
-        "code": "KCBT"
+        "code": "KCBTL"
       },
       {
         "name": "Letshego Bank Tanzania",
@@ -134,6 +139,11 @@
         "name": "National Microfinance Bank",
         "category": "Commercial Bank",
         "code": "NMB"
+      },
+      {
+        "name": "Guaranty Trust Bank Tanzania Limited",
+        "category": "Commercial Bank",
+        "code": "GTBL"
       },
       {
         "name": "NCBA Bank Tanzania",
@@ -166,9 +176,19 @@
         "code": "UBAT"
       },
       {
+        "name": "International Commercial Bank Tanzania Limited",
+        "category": "Commercial Bank",
+        "code": "ICBTL"
+      },
+      {
         "name": "Mwanga Hakika Bank",
         "category": "Commercial Bank",
         "code": "MHB"
+      },
+      {
+        "name": "African Banking Corporation Tanzania Limited",
+        "category": "Commercial Bank",
+        "code": "ABCTL"
       },
       {
         "name": "First Housing Company Tanzania Limited",
@@ -186,6 +206,11 @@
         "code": "TADB"
       },
       {
+        "name": "Trade And Development Bank Tanzania Limited",
+        "category": "Development Financial Institution",
+        "code": "TADBTL"
+      },
+      {
         "name": "TIB Development Bank",
         "category": "Development Financial Institution",
         "code": "TIDB"
@@ -199,6 +224,11 @@
         "name": "Maendeleo Bank Plc",
         "category": "Community Bank",
         "code": "MBP"
+      },
+      {
+        "name": "Jamii Bora Bank Tanzania Limited",
+        "category": "Community Bank",
+        "code": "JBBTL"
       },
       {
         "name": "Mufindi Community Bank Plc (MuCoBa)",

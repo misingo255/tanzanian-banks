@@ -14,7 +14,9 @@ class Banks(object):
         return data
 
     def get_banks(self):
-        pass
+        data = self.get_file_data(self.BANKS_FILE)
+        banks = data["banks"]
+        return banks
 
     def get_bank(self, bank_code: str):
         pass
@@ -44,8 +46,8 @@ class Banks(object):
         pass
 
     def count(self):
-        data = self.get_file_data(self.BANKS_FILE)
-        amount = len(data["banks"])
+        data = self.get_file_data(self.BANKS_CONTACTS_FILE)
+        amount = len(data["contacts"])
         return amount
 
 
