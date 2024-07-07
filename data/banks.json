@@ -118,12 +118,12 @@
       {
         "name": "Mkombozi Commercial Bank",
         "category": "Commercial Bank",
-        "code": "MCB"
+        "code": "MKCB"
       },
       {
         "name": "Mwalimu Commercial Bank",
         "category": "Commercial Bank",
-        "code": "MCB"
+        "code": "MWCB"
       },
       {
         "name": "National Bank of Commerce (Tanzania)",
@@ -158,12 +158,12 @@
       {
         "name": "Tanzania Commercial Bank",
         "category": "Commercial Bank",
-        "code": "TCB"
+        "code": "TZCB"
       },
       {
         "name": "UBA Bank Tanzania",
         "category": "Commercial Bank",
-        "code": "UBA"
+        "code": "UBAT"
       },
       {
         "name": "Mwanga Hakika Bank",
@@ -188,12 +188,12 @@
       {
         "name": "TIB Development Bank",
         "category": "Development Financial Institution",
-        "code": "TIB"
+        "code": "TIDB"
       },
       {
         "name": "Kilimanjaro Cooperative Bank",
         "category": "Community Bank",
-        "code": "KCB"
+        "code": "KLCB"
       },
       {
         "name": "Maendeleo Bank Plc",
@@ -208,7 +208,7 @@
       {
         "name": "Tandahimba Community Bank Limited",
         "category": "Community Bank",
-        "code": "TCB"
+        "code": "TCBL"
       },
       {
         "name": "Uchumi Commercial Bank Limited",
@@ -243,7 +243,7 @@
       {
         "name": "UOB Global Capital Finance Limited",
         "category": "Microfinance Bank",
-        "code": "UGCF"
+        "code": "UGCFL"
       },
       {
         "name": "United Bank for Africa Tanzania Limited",
