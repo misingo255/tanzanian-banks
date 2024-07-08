@@ -59,20 +59,17 @@ class Banks(object):
             bank for bank in banks if bank["category"] == "Microfinance Bank"
         ]
         return microfinance_banks
-
-    def get_branches(self, bank_code: str):
-        pass
-
-    def get_regional_branches(self, bank_code: str, region_code: str):
-        pass
-
+    
     def get_bank_contacts(self, bank_code: str):
         pass
 
-    def count(self):
-        data = self.get_file_data(self.BANKS_CONTACTS_FILE)
-        amount = len(data["contacts"])
-        return amount
+    def get_bank_branches(self, bank_code: str):
+        pass
+
+    def get_bank_regional_branches(self, bank_code: str, region_code: str):
+        pass
+
+
 
 
 tanzanian_banks = Banks()
