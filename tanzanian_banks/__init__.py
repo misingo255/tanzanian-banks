@@ -19,22 +19,46 @@ class Banks(object):
         return banks
 
     def get_bank(self, bank_code: str):
-        pass
+        banks = self.get_banks()
+        for bank in banks:
+            if bank["code"] == bank_code:
+                return bank
+        return {"message": "A bank with that code doesnt exist"}
 
     def get_commercial_banks(self):
-        pass
+        banks = self.get_banks()
+        commercial_banks = [
+            bank for bank in banks if bank["category"] == "Commercial Bank"
+        ]
+        return commercial_banks
 
-    def get_mortigage_banks(self):
-        pass
+    def get_mortgage_banks(self):
+        banks = self.get_banks()
+        mortgage_banks = [bank for bank in banks if bank["category"] == "Mortgage Bank"]
+        return mortgage_banks
 
     def get_community_banks(self):
-        pass
+        banks = self.get_banks()
+        community_banks = [
+            bank for bank in banks if bank["category"] == "Community Bank"
+        ]
+        return community_banks
 
-    def get_developmement_banks(self):
-        pass
+    def get_development_banks(self):
+        banks = self.get_banks()
+        development_banks = [
+            bank
+            for bank in banks
+            if bank["category"] == "Development Financial Institution"
+        ]
+        return development_banks
 
-    def get_microfinace_banks(self):
-        pass
+    def get_microfinance_banks(self):
+        banks = self.get_banks()
+        microfinance_banks = [
+            bank for bank in banks if bank["category"] == "Microfinance Bank"
+        ]
+        return microfinance_banks
 
     def get_branches(self, bank_code: str):
         pass
