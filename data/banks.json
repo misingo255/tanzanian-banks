@@ -1,285 +1,54 @@
 {
-    "banks": [
-      {
-        "name": "Absa Bank Tanzania",
-        "category": "Commercial Bank",
-        "code": "ABBT"
-      },
-      {
-        "name": "Access Bank Tanzania",
-        "category": "Commercial Bank",
-        "code": "ACBT"
-      },
-      {
-        "name": "Akiba Commercial Bank",
-        "category": "Commercial Bank",
-        "code": "AKCBT"
-      },
-      {
-        "name": "Amana Bank",
-        "category": "Commercial Bank",
-        "code": "AMBT"
-      },
-      {
-        "name": "Azania Bank",
-        "category": "Commercial Bank",
-        "code": "AZBT"
-      },
-      {
-        "name": "Bank of Africa Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "BOATL"
-      },
-      {
-        "name": "Bank of Africa Tanzania",
-        "category": "Commercial Bank",
-        "code": "BOAT"
-      },
-      {
-        "name": "Bank of Baroda Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "BOBTL"
-      },
-      {
-        "name": "Bank of India (Tanzania)",
-        "category": "Commercial Bank",
-        "code": "BOIT"
-      },
-      {
-        "name": "Canara Bank Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "CBTL"
-      },
-      {
-        "name": "China Dasheng Bank Limited",
-        "category": "Commercial Bank",
-        "code": "CDBT"
-      },
-      {
-        "name": "Citibank Tanzania",
-        "category": "Commercial Bank",
-        "code": "CBTZ"
-      },
-      {
-        "name": "CRDB Bank",
-        "category": "Commercial Bank",
-        "code": "CRDB"
-      },
-      {
-        "name": "DCB Commercial Bank",
-        "category": "Commercial Bank",
-        "code": "DCB"
-      },
-      {
-        "name": "Diamond Trust Bank Tanzania",
-        "category": "Commercial Bank",
-        "code": "DTBT"
-      },
-      {
-        "name": "Ecobank Tanzania",
-        "category": "Commercial Bank",
-        "code": "ECBT"
-      },
-      {
-        "name": "Equity Bank (Tanzania)",
-        "category": "Commercial Bank",
-        "code": "EQBT"
-      },
-      {
-        "name": "Exim Bank (Tanzania)",
-        "category": "Commercial Bank",
-        "code": "EXBT"
-      },
-      {
-        "name": "GTBank Tanzania",
-        "category": "Commercial Bank",
-        "code": "GTBT"
-      },
-      {
-        "name": "Habib African Bank Limited",
-        "category": "Commercial Bank",
-        "code": "HABL"
-      },
-      {
-        "name": "I&M Bank (Tanzania)",
-        "category": "Commercial Bank",
-        "code": "IMBT"
-      },
-      {
-        "name": "ICBank Tanzania",
-        "category": "Commercial Bank",
-        "code": "ICT"
-      },
-      {
-        "name": "KCB Bank Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "KCBTL"
-      },
-      {
-        "name": "Letshego Bank Tanzania",
-        "category": "Commercial Bank",
-        "code": "LBT"
-      },
-      {
-        "name": "Mkombozi Commercial Bank",
-        "category": "Commercial Bank",
-        "code": "MKCB"
-      },
-      {
-        "name": "Mwalimu Commercial Bank",
-        "category": "Commercial Bank",
-        "code": "MWCB"
-      },
-      {
-        "name": "National Bank of Commerce (Tanzania)",
-        "category": "Commercial Bank",
-        "code": "NBC"
-      },
-      {
-        "name": "National Microfinance Bank",
-        "category": "Commercial Bank",
-        "code": "NMB"
-      },
-      {
-        "name": "Guaranty Trust Bank Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "GTBL"
-      },
-      {
-        "name": "NCBA Bank Tanzania",
-        "category": "Commercial Bank",
-        "code": "NCBA"
-      },
-      {
-        "name": "People's Bank of Zanzibar",
-        "category": "Commercial Bank",
-        "code": "PBZ"
-      },
-      {
-        "name": "Stanbic Bank Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "SBTL"
-      },
-      {
-        "name": "Standard Chartered Bank Tanzania",
-        "category": "Commercial Bank",
-        "code": "SCBT"
-      },
-      {
-        "name": "Tanzania Commercial Bank",
-        "category": "Commercial Bank",
-        "code": "TZCB"
-      },
-      {
-        "name": "UBA Bank Tanzania",
-        "category": "Commercial Bank",
-        "code": "UBAT"
-      },
-      {
-        "name": "International Commercial Bank Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "ICBTL"
-      },
-      {
-        "name": "Mwanga Hakika Bank",
-        "category": "Commercial Bank",
-        "code": "MHB"
-      },
-      {
-        "name": "African Banking Corporation Tanzania Limited",
-        "category": "Commercial Bank",
-        "code": "ABCTL"
-      },
-      {
-        "name": "First Housing Company Tanzania Limited",
-        "category": "Mortgage Bank",
-        "code": "FHCT"
-      },
-      {
-        "name": "Tanzania Mortgage Refinance Company",
-        "category": "Mortgage Bank",
-        "code": "TMRC"
-      },
-      {
-        "name": "Tanzania Agricultural Development Bank",
-        "category": "Development Financial Institution",
-        "code": "TADB"
-      },
-      {
-        "name": "Trade And Development Bank Tanzania Limited",
-        "category": "Development Financial Institution",
-        "code": "TADBTL"
-      },
-      {
-        "name": "TIB Development Bank",
-        "category": "Development Financial Institution",
-        "code": "TIDB"
-      },
-      {
-        "name": "Kilimanjaro Cooperative Bank",
-        "category": "Community Bank",
-        "code": "KLCB"
-      },
-      {
-        "name": "Maendeleo Bank Plc",
-        "category": "Community Bank",
-        "code": "MBP"
-      },
-      {
-        "name": "Jamii Bora Bank Tanzania Limited",
-        "category": "Community Bank",
-        "code": "JBBTL"
-      },
-      {
-        "name": "Mufindi Community Bank Plc (MuCoBa)",
-        "category": "Community Bank",
-        "code": "MCB"
-      },
-      {
-        "name": "Tandahimba Community Bank Limited",
-        "category": "Community Bank",
-        "code": "TCBL"
-      },
-      {
-        "name": "Uchumi Commercial Bank Limited",
-        "category": "Community Bank",
-        "code": "UCB"
-      },
-      {
-        "name": "Selcom Microfinance Bank Tanzania",
-        "category": "Microfinance Bank",
-        "code": "SMBT"
-      },
-      {
-        "name": "Finca Microfinance Bank (Tanzania)",
-        "category": "Microfinance Bank",
-        "code": "FMBT"
-      },
-      {
-        "name": "VisionFund Tanzania Microfinance Bank",
-        "category": "Microfinance Bank",
-        "code": "VFTMB"
-      },
-      {
-        "name": "Yetu Microfinance Bank PLC",
-        "category": "Microfinance Bank",
-        "code": "YMB"
-      },
-      {
-        "name": "Y9 Microfinance Bank PLC",
-        "category": "Microfinance Bank",
-        "code": "Y9MB"
-      },
-      {
-        "name": "UOB Global Capital Finance Limited",
-        "category": "Microfinance Bank",
-        "code": "UGCFL"
-      },
-      {
-        "name": "United Bank for Africa Tanzania Limited",
-        "category": "Microfinance Bank",
-        "code": "UBATL"
-      }
-    ]
-  }
-  
+  "banks": [
+      {"name": "TANDAHIMBA COMMUNITY BANK LTD", "category": "Regional Town Council Bank", "code": "TCBL"},
+      {"name": "FIRST HOUSING FINANCE TANZANIA LIMITED", "category": "House Financing Bank", "code": "FHFTL"},
+      {"name": "MAENDELEO BANK PLC", "category": "Developement Bank", "code": "MBPLC"},
+      {"name": "FINCA MICROFINANCE BANK TANZANIA LIMITED", "category": "Microfinance Bank", "code": "FMBTL"},
+      {"name": "VISIONFUND TANZANIA MICROFINANCE BANK LIMITED", "category": "Microfinance Bank", "code": "VFTMB"},
+      {"name": "SELCOM MICROFINANCE BANK TANZANIA LIMITED", "category": "Microfinance Bank", "code": "SMBTL"},
+      {"name": "TANZANIA MORTGAGE REFINANCE COMPANY LTD", "category": "Mortigage Refinancing Bank", "code": "TMRC"},
+      {"name": "MUCOBA BANK PLC", "category": "Regional Town Municipal Outside Reginal Capital Bank", "code": "MBPLC"},
+      {"name": "UCHUMI COMMERCIAL BANK LIMITED", "category": "Regional Town Municipal Bank", "code": "UCBL"},
+      {"name": "KILIMANJARO COOPERATIVE BANK LIMITED", "category": "Regional Town Municipal Bank", "code": "KCBL"},
+      {"name": "ALIOS FINANCE TANZANIA LIMITED", "category": "Leasing Bank", "code": "AFTL"},
+      {"name": "EQUITY FOR TANZANIA LIMITED", "category": "Leasing Bank", "code": "EFTL"},
+      {"name": "SALUTE FINANCE LIMITED", "category": "Leasing Bank", "code": "SFL"},
+      {"name": "PASS LEASING COMPANY LIMITED", "category": "Leasing Bank", "code": "PLCL"},
+      {"name": "TANZANIA AGRICULTURAL DEVELOPMENT BANK LIMITED", "category": "Developement Bank", "code": "TADB"},
+      {"name": "TIB DEVELOPMENT BANK LIMITED", "category": "Developement Bank", "code": "TDBL"},
+      {"name": "UNITED BANK FOR AFRICA TANZANIA LIMITED", "category": "Commercial Bank", "code": "UBATL"},
+      {"name": "ECOBANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "ECBT"},
+      {"name": "MKOMBOZI COMMERCIAL BANK PLC", "category": "Commercial Bank", "code": "MKCB"},
+      {"name": "CANARA BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "CBTL"},
+      {"name": "BANK OF BARODA TANZANIA LIMITED", "category": "Commercial Bank", "code": "BBTL"},
+      {"name": "STANBIC BANK TANZANIA LTD", "category": "Commercial Bank", "code": "SBTL"},
+      {"name": "BANK OF AFRICA TANZANIA LIMITED", "category": "Commercial Bank", "code": "BOATL"},
+      {"name": "HABIB AFRICAN BANK LIMITED", "category": "Commercial Bank", "code": "HABL"},
+      {"name": "KCB BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "KCBTL"},
+      {"name": "AKIBA COMMERCIAL BANK PLC", "category": "Commercial Bank", "code": "ACBT"},
+      {"name": "NCBA BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "NCBATL"},
+      {"name": "NMB BANK PLC", "category": "Commercial Bank", "code": "NMBPLC"},
+      {"name": "NATIONAL BANK OF COMMERCE LIMITED", "category": "Commercial Bank", "code": "NBCL"},
+      {"name": "INTERNATIONAL COMMERCIAL BANK TANZANIA LTD", "category": "Commercial Bank", "code": "ICBTL"},
+      {"name": "AZANIA BANK PUBLIC LIMITED COMPANY", "category": "Commercial Bank", "code": "ABPLC"},
+      {"name": "ABSA BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "ABTL"},
+      {"name": "I & M BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "IMBTL"},
+      {"name": "AFRICAN BANKING CORPORATION TANZANIA LTD", "category": "Commercial Bank", "code": "ABCTL"},
+      {"name": "PEOPLES BANK OF ZANZIBAR LIMITED", "category": "Commercial Bank", "code": "PBZL"},
+      {"name": "CITIBANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "CBTL"},
+      {"name": "CRDB BANK PLC", "category": "Commercial Bank", "code": "CRDBPLC"},
+      {"name": "TANZANIA COMMERCIAL BANK PLC", "category": "Commercial Bank", "code": "TCBPLC"},
+      {"name": "DIAMOND TRUST BANK TANZANIA PUBLIC LIMITED COMPANY", "category": "Commercial Bank", "code": "DTBTPLC"},
+      {"name": "STANDARD CHARTERED BANK TANZANIA LTD", "category": "Commercial Bank", "code": "SCBTL"},
+      {"name": "EXIM BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "EBTL"},
+      {"name": "LETSHEGO FAIDIKA BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "LFBTL"},
+      {"name": "AMANA BANK LIMITED", "category": "Commercial Bank", "code": "ABL"},
+      {"name": "EQUITY BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "EBTL"},
+      {"name": "MWALIMU COMMERCIAL BANK PLC", "category": "Commercial Bank", "code": "MCBPLC"},
+      {"name": "GUARANTY TRUST BANK TANZANIA LIMITED", "category": "Commercial Bank", "code": "GTBTL"},
+      {"name": "CHINA DASHENG BANK LIMITED", "category": "Commercial Bank", "code": "CDBL"},
+      {"name": "DCB COMMERCIAL BANK PLC", "category": "Commercial Bank", "code": "DCBPLC"},
+      {"name": "BANK OF INDIA TANZANIA LIMITED", "category": "Commercial Bank", "code": "BOITL"},
+      {"name": "MWANGA HAKIKA BANK LTD", "category": "Commercial Bank", "code": "MHBL"}
+  ]
+}
