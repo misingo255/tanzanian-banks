@@ -1,531 +1,531 @@
 {
   "contacts": [
     {
-      "code": "TCBL",
-      "contact_person": "MR. YAHYA JUMANNE KIYABO",
+      "code": "tcbl",
+      "contact_person": "mr. yahya jumanne kiyabo",
       "contact_details": {
         "telephone": "+255 23 241 0093",
         "fax": "+255 23 241 0093",
-        "email": "TACOBA2009@HOTMAIL.COM"
+        "email": "tacoba2009@hotmail.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 6, TANDAHIMBA, MTWARA"
+        "postal_box": "p. o. box 6, tandahimba, mtwara"
       }
     },
     {
-      "code": "FHFTL",
-      "contact_person": "MR. SASA M. CHONZA",
+      "code": "fhftl",
+      "contact_person": "mr. sasa m. chonza",
       "contact_details": {
         "telephone": "+255 22 211 3456",
         "fax": "+255 22 211 3379",
-        "email": "INFO@FIRSTHOUSING.CO.TZ"
+        "email": "info@firsthousing.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 11990, DAR ES SALAAM"
+        "postal_box": "p. o. box 11990, dar es salaam"
       }
     },
     {
-      "code": "MBPLC",
-      "contact_person": "IBRAHIM MWANGALABA",
+      "code": "mbplc",
+      "contact_person": "ibrahim mwangalaba",
       "contact_details": {
         "telephone": "+255 22 211 0518",
         "fax": "+255 22 211 5950",
-        "email": "INFO@MAENDELEOBANK.CO.TZ"
+        "email": "info@maendeleobank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 216, DAR ES SALAAM"
+        "postal_box": "p. o. box 216, dar es salaam"
       }
     },
     {
-      "code": "FMBTL",
-      "contact_person": "MR. EDWARD TALAWA",
+      "code": "fmbtl",
+      "contact_person": "mr. edward talawa",
       "contact_details": {
         "telephone": "+255 22 221 2200",
         "fax": "+255 22 217 2459",
-        "email": "INFO@FINCATZ.ORG"
+        "email": "info@fincatz.org"
       },
       "address": {
-        "postal_box": "P. O. BOX 78783, DAR ES SALAAM"
+        "postal_box": "p. o. box 78783, dar es salaam"
       }
     },
     {
-      "code": "VFTMB",
-      "contact_person": "CHILALA HAKOOMA",
+      "code": "vftmb",
+      "contact_person": "chilala hakooma",
       "contact_details": {
         "telephone": "+255 689 591 134",
         "fax": "+255 27 254 8218",
-        "email": "FMSOKWA@VFTZ.CO.TZ"
+        "email": "fmsokwa@vftz.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 1546, ARUSHA"
+        "postal_box": "p. o. box 1546, arusha"
       }
     },
     {
-      "code": "SMBTL",
-      "contact_person": "AHMED LOUNDU",
+      "code": "smbtl",
+      "contact_person": "ahmed loundu",
       "contact_details": {
         "telephone": "+255 718 927 192",
         "fax": "+255 22 221 9011",
-        "email": "SUPPORT@SELCOM.NET"
+        "email": "support@selcom.net"
       },
       "address": {
-        "postal_box": "P. O. BOX 30752, DAR ES SALAAM"
+        "postal_box": "p. o. box 30752, dar es salaam"
       }
     },
     {
-      "code": "TMRC",
-      "contact_person": "OSWALD URASSA",
+      "code": "tmrc",
+      "contact_person": "oswald urassa",
       "contact_details": {
         "telephone": "+255 22 213 3867",
         "fax": "+255 22 213 3868",
-        "email": "INFO@TMRC.CO.TZ"
+        "email": "info@tmrc.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 7539, DAR ES SALAAM"
+        "postal_box": "p. o. box 7539, dar es salaam"
       }
     },
     {
-      "code": "MBPLC",
-      "contact_person": "GILBERT NG'ANG'A",
+      "code": "mbplc",
+      "contact_person": "gilbert ng'ang'a",
       "contact_details": {
         "telephone": "+255 23 261 2331",
         "fax": "+255 23 261 2332",
-        "email": "INFO@MUCOBA.CO.TZ"
+        "email": "info@mucoba.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 147, MAFINGA, IRINGA"
+        "postal_box": "p. o. box 147, mafinga, iringa"
       }
     },
     {
-      "code": "UCBL",
-      "contact_person": "YOHANA P. KAYUGWA",
+      "code": "ucbl",
+      "contact_person": "yohana p. kayugwa",
       "contact_details": {
         "telephone": "+255 27 297 6011",
         "fax": "+255 27 297 6009",
-        "email": "INFO@UCHUMIBANK.CO.TZ"
+        "email": "info@uchumibank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 7811, MOSHI, KILIMANJARO"
+        "postal_box": "p. o. box 7811, moshi, kilimanjaro"
       }
     },
     {
-      "code": "KCBL",
-      "contact_person": "MR. NELSON MREMA",
+      "code": "kcbl",
+      "contact_person": "mr. nelson mrema",
       "contact_details": {
         "telephone": "+255 27 275 3731",
         "fax": "+255 27 275 3730",
-        "email": "INFO@KCBL.CO.TZ"
+        "email": "info@kcbl.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 1760, MOSHI, KILIMANJARO"
+        "postal_box": "p. o. box 1760, moshi, kilimanjaro"
       }
     },
     {
-      "code": "AFTL",
-      "contact_person": "MOSES MOSHA",
+      "code": "aftl",
+      "contact_person": "moses mosha",
       "contact_details": {
         "telephone": "+255 22 216 5800",
         "fax": "+255 22 216 5800",
-        "email": "MOSES.MOSHA@ALIOSFINANCE.COM"
+        "email": "moses.mosha@aliosfinance.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 79895, DAR ES SALAAM"
+        "postal_box": "p. o. box 79895, dar es salaam"
       }
     },
     {
-      "code": "EFTL",
-      "contact_person": "SAIDI TEGAMBWAGE",
+      "code": "eftl",
+      "contact_person": "saidi tegambwage",
       "contact_details": {
         "telephone": "+255 22 212 7393",
         "fax": "+255 22 212 7392",
-        "email": "INFO@EFT.CO.TZ"
+        "email": "info@eft.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 105572, DAR ES SALAAM"
+        "postal_box": "p. o. box 105572, dar es salaam"
       }
     },
     {
-      "code": "SFL",
-      "contact_person": "THOMAS MAYALA",
+      "code": "sfl",
+      "contact_person": "thomas mayala",
       "contact_details": {
         "telephone": "+255 22 292 2764",
         "fax": "+255 22 292 2765",
-        "email": "INFO@SALUTEFINANCE.COM"
+        "email": "info@salutefinance.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 78053, DAR ES SALAAM"
+        "postal_box": "p. o. box 78053, dar es salaam"
       }
     },
     {
-      "code": "PLCL",
-      "contact_person": "SEBASTIAN NSUHA",
+      "code": "plcl",
+      "contact_person": "sebastian nsuha",
       "contact_details": {
         "telephone": "+255 22 292 3201",
         "fax": "+255 22 292 3201",
-        "email": "INFO@PASSLEASING.CO.TZ"
+        "email": "info@passleasing.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 9490, DAR ES SALAAM"
+        "postal_box": "p. o. box 9490, dar es salaam"
       }
     },
     {
-      "code": "TADB",
-      "contact_person": "MR. FRANCIS ASSAN",
+      "code": "tadb",
+      "contact_person": "mr. francis assan",
       "contact_details": {
         "telephone": "+255 22 292 3001",
         "fax": "+255 22 292 3002",
-        "email": "INFO@TADB.CO.TZ"
+        "email": "info@tadb.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 63372, DAR ES SALAAM"
+        "postal_box": "p. o. box 63372, dar es salaam"
       }
     },
     {
-      "code": "TDBL",
-      "contact_person": "ENG. ALPHONCE KAKONDO",
+      "code": "tdbl",
+      "contact_person": "eng. alphonce kakondo",
       "contact_details": {
         "telephone": "+255 22 292 3201",
         "fax": "+255 22 292 3201",
-        "email": "INFO@TIB.CO.TZ"
+        "email": "info@tib.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 9373, DAR ES SALAAM"
+        "postal_box": "p. o. box 9373, dar es salaam"
       }
     },
     {
-      "code": "UBATL",
-      "contact_person": "MRS. JUDITH WAIROTO",
+      "code": "ubatl",
+      "contact_person": "mrs. judith wairoto",
       "contact_details": {
         "telephone": "+255 22 216 4800",
         "fax": "+255 22 216 4826",
-        "email": "CUSTOMERCARE@UBA.CO.TZ"
+        "email": "customercare@uba.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 80513, DAR ES SALAAM"
+        "postal_box": "p. o. box 80513, dar es salaam"
       }
     },
     {
-      "code": "ECBT",
-      "contact_person": "JULIET TEMBA",
+      "code": "ecbt",
+      "contact_person": "juliet temba",
       "contact_details": {
         "telephone": "+255 22 266 6222",
         "fax": "+255 22 266 6221",
-        "email": "INFO@ECOBANK.COM"
+        "email": "info@ecobank.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 20541, DAR ES SALAAM"
+        "postal_box": "p. o. box 20541, dar es salaam"
       }
     },
     {
-      "code": "MKCB",
-      "contact_person": "DOMINICK SIMBA",
+      "code": "mkcb",
+      "contact_person": "dominick simba",
       "contact_details": {
         "telephone": "+255 22 227 1367",
         "fax": "+255 22 227 5078",
-        "email": "CUSTOMERCARE@MKOMBOZIBANK.COM"
+        "email": "customercare@mkombozibank.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 38448, DAR ES SALAAM"
+        "postal_box": "p. o. box 38448, dar es salaam"
       }
     },
     {
-      "code": "CBTL",
-      "contact_person": "RAJU KAPADIA",
+      "code": "cbtl",
+      "contact_person": "raju kapadia",
       "contact_details": {
         "telephone": "+255 22 211 3070",
         "fax": "+255 22 213 1094",
-        "email": "RAJU.KAPADIA@CANARABANK.CO.TZ"
+        "email": "raju.kapadia@canarabank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 9600, DAR ES SALAAM"
+        "postal_box": "p. o. box 9600, dar es salaam"
       }
     },
     {
-      "code": "BBTL",
-      "contact_person": "PAUL LUSEKELO",
+      "code": "bbtl",
+      "contact_person": "paul lusekelo",
       "contact_details": {
         "telephone": "+255 22 213 5434",
         "fax": "+255 22 213 5435",
-        "email": "PAUL.LUSEKELO@BANKOFBARODA.CO.TZ"
+        "email": "paul.lusekelo@bankofbaroda.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 5356, DAR ES SALAAM"
+        "postal_box": "p. o. box 5356, dar es salaam"
       }
     },
     {
-      "code": "SBTL",
-      "contact_person": "BETHWEL OCHIENG",
+      "code": "sbtl",
+      "contact_person": "bethwel ochieng",
       "contact_details": {
         "telephone": "+255 22 219 6200",
         "fax": "+255 22 211 3104",
-        "email": "INFO@STANBICBANK.CO.TZ"
+        "email": "info@stanbicbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 72648, DAR ES SALAAM"
+        "postal_box": "p. o. box 72648, dar es salaam"
       }
     },
     {
-      "code": "BOATL",
-      "contact_person": "MALAK MENGI",
+      "code": "boatl",
+      "contact_person": "malak mengi",
       "contact_details": {
         "telephone": "+255 22 211 0000",
         "fax": "+255 22 211 3230",
-        "email": "INFO@BOA.CO.TZ"
+        "email": "info@boa.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 3054, DAR ES SALAAM"
+        "postal_box": "p. o. box 3054, dar es salaam"
       }
     },
     {
-      "code": "HABL",
-      "contact_person": "MOHAMED AHMED",
+      "code": "habl",
+      "contact_person": "mohamed ahmed",
       "contact_details": {
         "telephone": "+255 22 211 7537",
         "fax": "+255 22 211 0647",
-        "email": "MOHAMED.AHMED@HABIBBANK.COM"
+        "email": "mohamed.ahmed@habibbank.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 72484, DAR ES SALAAM"
+        "postal_box": "p. o. box 72484, dar es salaam"
       }
     },
     {
-      "code": "KCBTL",
-      "contact_person": "MS. ANNA KIBESHI",
+      "code": "kcbtl",
+      "contact_person": "ms. anna kibeshi",
       "contact_details": {
         "telephone": "+255 22 216 0790",
         "fax": "+255 22 216 0780",
-        "email": "ANNA.KIBESHI@KCB.CO.TZ"
+        "email": "anna.kibeshi@kcb.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 804, DAR ES SALAAM"
+        "postal_box": "p. o. box 804, dar es salaam"
       }
     },
     {
-      "code": "ACBT",
-      "contact_person": "MR. GODFREY TUTU",
+      "code": "acbt",
+      "contact_person": "mr. godfrey tutu",
       "contact_details": {
         "telephone": "+255 22 212 2951",
         "fax": "+255 22 212 4985",
-        "email": "CUSTOMERCARE@AKIBABANK.COM"
+        "email": "customercare@akibabank.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 669, DAR ES SALAAM"
+        "postal_box": "p. o. box 669, dar es salaam"
       }
     },
     {
-      "code": "NCBATL",
-      "contact_person": "MR. JOSHUA NYANGE",
+      "code": "ncbatl",
+      "contact_person": "mr. joshua nyange",
       "contact_details": {
         "telephone": "+255 22 216 8700",
         "fax": "+255 22 216 8702",
-        "email": "JOSHUA.NYANGE@NCBANK.CO.TZ"
+        "email": "joshua.nyange@ncbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 9060, DAR ES SALAAM"
+        "postal_box": "p. o. box 9060, dar es salaam"
       }
     },
     {
-      "code": "NMBPLC",
-      "contact_person": "MORRIS W. MAHEMBE",
+      "code": "nmbplc",
+      "contact_person": "morris w. mahembe",
       "contact_details": {
         "telephone": "+255 22 216 8000",
         "fax": "+255 22 216 8113",
-        "email": "CUSTOMERCARE@NMBBANK.CO.TZ"
+        "email": "customercare@nmbbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 9213, DAR ES SALAAM"
+        "postal_box": "p. o. box 9213, dar es salaam"
       }
     },
     {
-      "code": "NBCL",
-      "contact_person": "MR. JERRY MOONDE",
+      "code": "nbcl",
+      "contact_person": "mr. jerry moonde",
       "contact_details": {
         "telephone": "+255 22 232 2871",
         "fax": "+255 22 232 2872",
-        "email": "CUSTOMERCARE@NBCTZ.COM"
+        "email": "customercare@nbctz.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 1863, DAR ES SALAAM"
+        "postal_box": "p. o. box 1863, dar es salaam"
       }
     },
     {
-      "code": "ICBTL",
-      "contact_person": "MR. JOHN MWANAMBE",
+      "code": "icbtl",
+      "contact_person": "mr. john mwanambe",
       "contact_details": {
         "telephone": "+255 22 211 1010",
         "fax": "+255 22 211 1005",
-        "email": "INFO@ICBANK.CO.TZ"
+        "email": "info@icbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 9362, DAR ES SALAAM"
+        "postal_box": "p. o. box 9362, dar es salaam"
       }
     },
     {
-      "code": "ABPLC",
-      "contact_person": "JAMES MASOME",
+      "code": "abplc",
+      "contact_person": "james masome",
       "contact_details": {
         "telephone": "+255 22 213 8816",
         "fax": "+255 22 213 8816",
-        "email": "INFO@AZANIABANK.CO.TZ"
+        "email": "info@azaniabank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 32089, DAR ES SALAAM"
+        "postal_box": "p. o. box 32089, dar es salaam"
       }
     },
     {
-      "code": "ABTL",
-      "contact_person": "NICKSON KIOKO",
+      "code": "abtl",
+      "contact_person": "nickson kioko",
       "contact_details": {
         "telephone": "+255 22 213 6195",
         "fax": "+255 22 213 6197",
-        "email": "INFO@ABSA.CO.TZ"
+        "email": "info@absa.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 9214, DAR ES SALAAM"
+        "postal_box": "p. o. box 9214, dar es salaam"
       }
     },
     {
-      "code": "IMBTL",
-      "contact_person": "MS. MERCY KIBASA",
+      "code": "imbtl",
+      "contact_person": "ms. mercy kibasa",
       "contact_details": {
         "telephone": "+255 22 219 6700",
         "fax": "+255 22 211 0608",
-        "email": "CUSTOMERCARE@IMBANK.CO.TZ"
+        "email": "customercare@imbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 17549, DAR ES SALAAM"
+        "postal_box": "p. o. box 17549, dar es salaam"
       }
     },
     {
-      "code": "ABCTL",
-      "contact_person": "MR. ANTHONY NGONYANI",
+      "code": "abctl",
+      "contact_person": "mr. anthony ngonyani",
       "contact_details": {
         "telephone": "+255 22 213 1003",
         "fax": "+255 22 213 1005",
-        "email": "INFO@BANCABC.CO.TZ"
+        "email": "info@bancabc.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 31, DAR ES SALAAM"
+        "postal_box": "p. o. box 31, dar es salaam"
       }
     },
     {
-      "code": "PBZL",
-      "contact_person": "JUMA ABDALLAH",
+      "code": "pbzl",
+      "contact_person": "juma abdallah",
       "contact_details": {
         "telephone": "+255 24 223 0315",
         "fax": "+255 24 223 0361",
-        "email": "INFO@PBZ.CO.TZ"
+        "email": "info@pbz.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 1173, ZANZIBAR"
+        "postal_box": "p. o. box 1173, zanzibar"
       }
     },
     {
-      "code": "CBTL",
-      "contact_person": "MR. HENRY MABEI",
+      "code": "cbtl",
+      "contact_person": "mr. henry mabei",
       "contact_details": {
         "telephone": "+255 22 219 5300",
         "fax": "+255 22 219 5320",
-        "email": "INFO@CITIBANK.COM"
+        "email": "info@citibank.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 71625, DAR ES SALAAM"
+        "postal_box": "p. o. box 71625, dar es salaam"
       }
     },
     {
-      "code": "CRDBPLC",
-      "contact_person": "MR. ABDUL MAJID",
+      "code": "crdbplc",
+      "contact_person": "mr. abdul majid",
       "contact_details": {
         "telephone": "+255 22 219 7700",
         "fax": "+255 22 219 7790",
-        "email": "CUSTOMERCARE@CRDBBANK.CO.TZ"
+        "email": "customercare@crdbbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 268, DAR ES SALAAM"
+        "postal_box": "p. o. box 268, dar es salaam"
       }
     },
     {
-      "code": "TCBPLC",
-      "contact_person": "MR. JOHN MINJA",
+      "code": "tcbplc",
+      "contact_person": "mr. john minja",
       "contact_details": {
         "telephone": "+255 22 213 4738",
         "fax": "+255 22 213 4739",
-        "email": "INFO@TCB.CO.TZ"
+        "email": "info@tcb.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 3030, DAR ES SALAAM"
+        "postal_box": "p. o. box 3030, dar es salaam"
       }
     },
     {
-      "code": "DTBTPLC",
-      "contact_person": "MR. PETER MATUKU",
+      "code": "dtbtplc",
+      "contact_person": "mr. peter matuku",
       "contact_details": {
         "telephone": "+255 22 211 2851",
         "fax": "+255 22 211 2853",
-        "email": "CUSTOMERCARE@DIAMONDTRUSTBANK.CO.TZ"
+        "email": "customercare@diamondtrustbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 115, DAR ES SALAAM"
+        "postal_box": "p. o. box 115, dar es salaam"
       }
     },
     {
-      "code": "SCBTL",
-      "contact_person": "MR. AARON MITIKISHA",
+      "code": "scbtl",
+      "contact_person": "mr. aaron mitikisha",
       "contact_details": {
         "telephone": "+255 22 211 8811",
         "fax": "+255 22 211 8833",
-        "email": "AARON.MITIKISHA@STANDARDCHARTERED.COM"
+        "email": "aaron.mitikisha@standardchartered.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 9011, DAR ES SALAAM"
+        "postal_box": "p. o. box 9011, dar es salaam"
       }
     },
     {
-      "code": "EBTL",
-      "contact_person": "MR. ERNEST MWAMUNYANGE",
+      "code": "ebtl",
+      "contact_person": "mr. ernest mwamunyange",
       "contact_details": {
         "telephone": "+255 22 212 6951",
         "fax": "+255 22 212 6961",
-        "email": "INFO@EXIMBANK.CO.TZ"
+        "email": "info@eximbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 1431, DAR ES SALAAM"
+        "postal_box": "p. o. box 1431, dar es salaam"
       }
     },
     {
-      "code": "LFBTL",
-      "contact_person": "MR. JEREMIAH MWAIPOPO",
+      "code": "lfbtl",
+      "contact_person": "mr. jeremiah mwaipopo",
       "contact_details": {
         "telephone": "+255 22 212 5023",
         "fax": "+255 22 212 5024",
-        "email": "JEREMIAH.MWAIPOPO@LETSHEGO.COM"
+        "email": "jeremiah.mwaipopo@letshego.com"
       },
       "address": {
-        "postal_box": "P. O. BOX 3342, DAR ES SALAAM"
+        "postal_box": "p. o. box 3342, dar es salaam"
       }
     },
     {
-      "code": "ABL",
-      "contact_person": "MS. FATMA KASSIM",
+      "code": "abl",
+      "contact_person": "ms. fatma kassim",
       "contact_details": {
         "telephone": "+255 22 212 3692",
         "fax": "+255 22 212 3682",
-        "email": "FATMA.KASSIM@AMANABANK.CO.TZ"
+        "email": "fatma.kassim@amanabank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 67061, DAR ES SALAAM"
+        "postal_box": "p. o. box 67061, dar es salaam"
       }
     },
     {
-      "code": "EBTL",
-      "contact_person": "MR. ERNEST MWAMUNYANGE",
+      "code": "ebtl",
+      "contact_person": "mr. ernest mwamunyange",
       "contact_details": {
         "telephone": "+255 22 212 7000",
         "fax": "+255 22 212 7002",
-        "email": "INFO@EXIMBANK.CO.TZ"
+        "email": "info@eximbank.co.tz"
       },
       "address": {
-        "postal_box": "P. O. BOX 7580, DAR ES SALAAM"
+        "postal_box": "p. o. box 7580, dar es salaam"
       }
     }
   ]
