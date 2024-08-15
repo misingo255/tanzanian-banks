@@ -1,11 +1,1486 @@
 {
     "branches": [
-
         {
-            "code": "",
-            "region": "",
-            "swift_code": ""
+            "code": "crdbplc",
+            "name": "CRDB Dodoma",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB UDOM",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Chamwino Dodoma",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB LAPF Dodoma",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Chamwino IKULU",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kambarage Premier Center",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Morogoro",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mandela",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kilombero",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ifakara",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Iringa",
+            "region": "Iringa",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mafinga",
+            "region": "Iringa",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Singida",
+            "region": "Singida",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mzumbe",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Gairo",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mazimbu",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mkwawa",
+            "region": "Iringa",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Chief Kingalu",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ludewa",
+            "region": "Njombe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bunge",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Service Name",
+            "region": "Region",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mpwapwa",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB SUA",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Turiani",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kilosa",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Majengo",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Msamvu",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kondoa",
+            "region": "Dodoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ulanga",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Manyoni",
+            "region": "Singida",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Singida NHC",
+            "region": "Singida",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mikumi",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bagamoyo",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kibaha",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mkuranga",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mlandizi",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ardhi University",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Azam ICD",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Azikiwe",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Banana",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bunju",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Buza",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Chanika",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Goba",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tower",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Vijana",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Lumumba",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Palm Beach Premier Branch",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Msasani",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mwananyamala",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB TPA (Waterfront)",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbezi Beach",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbagala",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mikocheni",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mlimani City",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tegeta",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB UDSM",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kijitonyama",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tabata",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Oysterbay",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Pugu Road",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB TAZARA",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Temeke",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ubungo",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kariakoo Narung'ombe",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Holland House",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mafia",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ikwiriri",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Zanzibar",
+            "region": "Unguja",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Pemba",
+            "region": "Kusini pemba",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mwenge",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kimara",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Magomeni",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbagala Charambe",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mtoni Kijichi",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kibada",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB JN Hydropower",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kinondoni Municipal",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Chalinze",
+            "region": "Coastal",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kinyerezi",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Gongo la Mboto",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Wete",
+            "region": "Pemba",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Temeke Taifa",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tandika",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kariakoo Uhuru",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ilala Municipal",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbezi Luis",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kawe",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB TBL",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bureau - Z'bar (Amaan Abeid Karume)",
+            "region": "Unguja",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Michenzani Mall",
+            "region": "Unguja",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB TRA- Samora",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB JNIA BUREAU DE CHANGE TERMINAL 3",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB JNIA BUREAU DE CHANGE TERMINAL 2",
+            "region": "Dar es salaam",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbeya",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kyela",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbarali",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbozi",
+            "region": "Songwe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mwanjelwa",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tunduma",
+            "region": "Songwe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Sumbawanga",
+            "region": "Rukwa",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mpanda",
+            "region": "Katavi",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Njombe",
+            "region": "Njombe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Makambako",
+            "region": "Njombe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbalizi",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mt Livingstone",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Majimoto",
+            "region": "Katavi",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Uyole",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mlowo",
+            "region": "Songwe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Chunya",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Rungwe",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nkasi",
+            "region": "Rukwa",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Songwe",
+            "region": "Songwe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mtwango",
+            "region": "Njombe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Wanging'ombe",
+            "region": "Njombe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ikonda",
+            "region": "Njombe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB TRA- Tunduma",
+            "region": "Songwe",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bunda",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mwanza",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nyerere",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nyanza",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Shirati",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB SAUT",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bukoba",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Karagwe",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Muleba",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tarime",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Musoma",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bariadi",
+            "region": "Simiyu",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Buzuruga",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Misungwi",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Rock City",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Rorya",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nyamongo",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nansio",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ngara",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mwaloni",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bugando",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Meatu",
+            "region": "Simiyu",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Magu",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ilemela",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 9 - Mazimbu",
+            "region": "Morogoro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 11 - Kasumulu",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 15 - Sirari Boarder",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 7 - Lupatingatinga",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 19 - Makongolosi",
+            "region": "Mbeya",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 20 - At Namanga Boarder",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Chato",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Katoro",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Maganzo",
+            "region": "Shinyanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbogwe",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nzega",
+            "region": "Tabora",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Sengerema",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kibondo",
+            "region": "Kigoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nyang'hwale",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Runzewe",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Igunga",
+            "region": "Tabora",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kakola",
+            "region": "Shinyanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tinde",
+            "region": "Shinyanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Bukombe",
+            "region": "Shinyanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kahama Social",
+            "region": "Shinyanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nguruka",
+            "region": "Kigoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Sikonge",
+            "region": "Tabora",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kakonko",
+            "region": "Kigoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Geita Gold Market",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 5 - Nanyumbu (Mangaka)",
+            "region": "Mtwara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB MOBILE 6 - Itigi",
+            "region": "Singida",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Newala",
+            "region": "Mtwara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nanyumbu",
+            "region": "Mtwara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbinga",
+            "region": "Ruvuma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Songea",
+            "region": "Ruvuma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ruangwa",
+            "region": "Lindi",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kilwa Kivinje",
+            "region": "Lindi",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Liwale",
+            "region": "Lindi",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tandahimba",
+            "region": "Mtwara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nyasa",
+            "region": "Ruvuma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Namtumbo",
+            "region": "Ruvuma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tunduru",
+            "region": "Ruvuma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nachingwea",
+            "region": "Lindi",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tabora",
+            "region": "Tabora",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Urambo",
+            "region": "Tabora",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kaliua",
+            "region": "Tabora",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kigoma",
+            "region": "Kigoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kasulu",
+            "region": "Kigoma",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Shinyanga",
+            "region": "Shinyanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kahama",
+            "region": "Shinyanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Geita",
+            "region": "Geita",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Siha",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Hydom",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Karatu",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mererani",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Katesh",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tarakea",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kiteto",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbulu",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mwanga",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Rombo Mkuu",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kilindi",
+            "region": "Tanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Same",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ngamiani",
+            "region": "Tanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB KCMC",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB KIA- Bureau De Change",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB TPC - MOSHI",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mtwara",
+            "region": "Mtwara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Lindi",
+            "region": "Lindi",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Masasi",
+            "region": "Mtwara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nanyamba",
+            "region": "Mtwara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mto wa Mbu",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Ngaramtoni",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Njiro",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Sakina",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Soko Kuu",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tengeru",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mererani Mineral Market",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Lushoto",
+            "region": "Tanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Cultural Heritage",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB TFA",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Usa River",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Moshi",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Hai",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Marangu",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Babati",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Tanga",
+            "region": "Tanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Korogwe",
+            "region": "Tanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Handeni",
+            "region": "Tanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Muheza",
+            "region": "Tanga",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mbuyuni",
+            "region": "Kilimanjaro",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mkuyuni",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kwimba",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Buhongwa",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Igoma",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kagera Sugar",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Nshamba",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Serengeti",
+            "region": "Mara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Rwamishenye",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Biharamulo",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Rulenge",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kyerwa",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mwanza Refinery",
+            "region": "Mwanza",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mutukula",
+            "region": "Kagera",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Maswa",
+            "region": "Simiyu",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Arusha",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Kwa Mromboo",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Mapato",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Meru",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Dongobesh",
+            "region": "Manyara",
+            "swift_code": "CORUTZTZ"
+        },
+        {
+            "code": "crdbplc",
+            "name": "CRDB Monduli",
+            "region": "Arusha",
+            "swift_code": "CORUTZTZ"
         }
-        
     ]
 }

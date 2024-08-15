@@ -101,7 +101,9 @@ class Banks(object):
                 return contact
 
     def get_all_branches_for_all_banks(self):
-        pass
+        data = self.get_file_data(self.BANKS_BRANCHES_FILE)
+        branches = data["branches"]
+        return branches
 
     def get_all_branches_for_all_banks_by_region(self, region_code: str):
         pass
