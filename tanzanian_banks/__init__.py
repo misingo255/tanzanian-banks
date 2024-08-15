@@ -18,6 +18,11 @@ class Banks(object):
         banks = data["banks"]
         return banks
 
+    def get_contacts(self):
+        data = self.get_file_data(self.BANKS_CONTACTS_FILE)
+        contacts = data["contacts"]
+        return contacts
+
     def get_bank(self, bank_code: str):
         banks = self.get_banks()
         for bank in banks:
@@ -90,7 +95,10 @@ class Banks(object):
         return microfinance_banks
 
     def get_bank_contacts(self, bank_code: str):
-        pass
+        contacts = self.get_contacts()
+        for contact in contacts:
+            if contact["code"] == bank_code:
+                return contact
 
     def get_all_branches_for_all_banks(self):
         pass
