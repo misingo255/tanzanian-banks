@@ -122,12 +122,6 @@
         },
         {
             "code": "crdbplc",
-            "name": "CRDB Service Name",
-            "region": "Region",
-            "swift_code": "CORUTZTZ"
-        },
-        {
-            "code": "crdbplc",
             "name": "CRDB Mpwapwa",
             "region": "Dodoma",
             "swift_code": "CORUTZTZ"

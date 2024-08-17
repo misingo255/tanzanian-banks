@@ -1,0 +1,160 @@
+{
+    "regions": [
+
+        {
+            "code": "dsm",
+            "name": "Dar es salaam"
+        },
+
+
+        {
+            "code": "aru",
+            "name": "Arusha"
+        },
+
+        {
+            "code": "cos",
+            "name": "Coastal"
+        },
+
+
+        {
+            "code": "dom",
+            "name": "Dodoma"
+        },
+
+        {
+            "code": "gei",
+            "name": "Geita"
+        },
+
+        {
+            "code": "iri",
+            "name": "Iringa"
+        },
+
+        {
+            "code": "kag",
+            "name": "Kagera"
+        },
+
+
+        {
+            "code": "kat",
+            "name": "Katavi"
+        },
+
+        {
+            "code": "kig",
+            "name": "Kigoma"
+        },
+
+        {
+            "code": "kil",
+            "name": "Kilimanjaro"
+        },
+
+
+        {
+            "code": "kpe",
+            "name": "Kusini pemba"
+        },
+
+
+        {
+            
+            "code": "lin",
+            "name": "Lindi"
+        },
+
+
+        {
+            "code": "man",
+            "name": "Manyara"
+        },
+
+
+        {
+            "code": "mar",
+            "name": "Mara"
+        },
+
+
+        {
+            "code": "mbe",
+            "name": "Mbeya"
+        },
+
+        {
+            "code": "mor",
+            "name": "Morogoro"
+        },
+
+        {
+            "code": "mtw",
+            "name": "Mtwara"
+        },
+
+        {
+            "code": "mwa",
+            "name": "Mwanza"
+        },
+
+
+        {
+            "code": "njo",
+            "name": "Njombe"
+        },
+
+        {
+            "code": "pem",
+            "name": "Pemba"
+        },
+
+
+        {
+            "code": "ruk",
+            "name": "Rukwa"
+        },
+
+        {
+            "code": "ruv",
+            "name": "Ruvuma"
+        },
+
+        {
+            "code": "shi",
+            "name": "Shinyanga"
+        },
+
+        {
+            "code": "sim",
+            "name": "Simiyu"
+        },
+
+        {
+            "code": "sin",
+            "name": "Singida"
+        },
+
+        {
+            "code": "son",
+            "name": "Songwe"
+        },
+
+        {
+            "code": "tab",
+            "name": "Tabora"
+        },
+
+        {
+            "code": "tan",
+            "name": "Tanga"
+        },
+
+        {
+            "code": "ung",
+            "name": "Unguja"
+        }
+    ]
+}
