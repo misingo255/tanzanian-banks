@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "name": "Regional town council banks"
+        },
+
+        {
+            "name": "Regional town municipal banks"
+        },
+
+        {
+            "name": "Regional town municipal outside reginal capital banks"
+        },
+
+        {
+            "name": "House financing banks"
+        },
+
+        {
+            "name": "Commercial bank"
+        },
+
+        {
+            "name": "Mortigage refinancing banks"
+        },
+
+        {
+            "name": "Leasing banks"
+        },
+
+        {
+            "name": "Developement banks"
+        },
+
+        {
+            "name": "Microfinance banks"
+        }
+    ]
+}
