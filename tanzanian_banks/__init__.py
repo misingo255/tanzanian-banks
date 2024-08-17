@@ -8,6 +8,7 @@ class Banks(object):
     BANKS_BRANCHES_FILE = os.path.join(SYSTEM_PATH, "data/branches.json")
     BANKS_CONTACTS_FILE = os.path.join(SYSTEM_PATH, "data/contacts.json")
     BANKS_REGIONS_FILE = os.path.join(SYSTEM_PATH, "data/regions.json")
+    BANKS_CATEGORIES_FILE = os.path.join(SYSTEM_PATH, "data/categories.json")
 
     def get_file_data(self, json_file_path: str):
         with open(json_file_path, "r") as file:
@@ -28,6 +29,11 @@ class Banks(object):
         data = self.get_file_data(self.BANKS_REGIONS_FILE)
         regions = data["regions"]
         return regions
+    
+    def get_categories(self):
+        data = self.get_file_data(self.BANKS_CATEGORIES_FILE)
+        categories = data["categories"]
+        return categories
 
     def get_bank(self, bank_code: str):
         banks = self.get_banks()
