@@ -40,7 +40,7 @@ class Banks(object):
         for bank in banks:
             if bank["code"] == bank_code:
                 return bank
-        return {"message": "A bank with that code doesnt exist"}
+        return {"message": "Wrong bank code, please check the list of all banks to know its code"}
 
     def get_regional_town_council_banks(self):
         banks = self.get_banks()
@@ -108,23 +108,45 @@ class Banks(object):
 
     def get_bank_contacts(self, bank_code: str):
         contacts = self.get_contacts()
-        for contact in contacts:
-            if contact["code"] == bank_code:
-                return contact
+        contacts = [contact for contact in contacts if contact["code"] == bank_code]
+        if contacts:
+            return contacts
+        return {"message": "Wrong bank code, please check the list of all banks to know its code"}
 
     def get_all_branches_for_all_banks(self):
         data = self.get_file_data(self.BANKS_BRANCHES_FILE)
         branches = data["branches"]
         return branches
+    
+    def get_bank_branches(self, bank_code: str):
+       branches = self.get_all_branches_for_all_banks()
+       branches = [branch for branch in branches if branches["code"] == bank_code]
+       if branches:
+            return branches
+       return {"message": "Wrong bank code, please check the list of all banks to know its code"}
 
     def get_all_branches_for_all_banks_by_region(self, region_code: str):
-        pass
+        regions = self.get_regions()
+        region = [region for region in regions if regions["code"] == region_code]
+        if not region:
+            return {"message": "Wrong region code, please check the list of all regions to know its code"}
+        branches = self.get_all_branches_for_all_banks()
+        branches = [branch for branch in branches if branches["region"] == region]
+        if not branches:
+            return {"message": "Wrong region code, please check the list of all regions to know its code"}
+        return branches
 
-    def get_bank_branches(self, bank_code: str):
-        pass
 
     def get_bank_branches_by_region(self, bank_code: str, region_code: str):
-        pass
+        regions = self.get_regions()
+        region = [region for region in regions if regions["code"] == region_code]
+        if not region:
+            return {"message": "Wrong region code, please check the list of all regions to know its code"}
+        branches = self.get_all_branches_for_all_banks()
+        branches = [branch for branch in branches if branches["region"] == region and branches["code"] == bank_code]
+        if not branches:
+            return {"message": "Wrong region code or bank code, please check the list of all regions and banks to know their code"}
+        return branches
 
 
 tanzanian_banks = Banks()
