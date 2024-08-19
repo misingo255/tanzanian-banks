@@ -1,0 +1,3 @@
+from tanzanian_banks import tanzanian_banks
+regional_town_municipal_outside_regional_capital_banks = tanzanian_banks.get_regional_town_municipal_outside_regional_capital_banks()
+print(regional_town_municipal_outside_regional_capital_banks)

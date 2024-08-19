@@ -1,0 +1,3 @@
+from tanzanian_banks import tanzanian_banks
+house_financing_banks = tanzanian_banks.get_house_financing_banks()
+print(house_financing_banks)

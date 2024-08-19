@@ -1,0 +1,3 @@
+from tanzanian_banks import tanzanian_banks
+microfinance_banks = tanzanian_banks.get_microfinance_banks()
+print(microfinance_banks)
