@@ -102,7 +102,9 @@ class Banks(object):
         for bank in banks:
             if bank["code"] == bank_code:
                 return bank
-        return {"message": "Wrong bank code, please check the list of all banks to know its code"}
+        return {
+            "message": "Wrong bank code, please check the list of all banks to know its code"
+        }
 
     def get_regional_town_council_banks(self):
         """
@@ -116,7 +118,9 @@ class Banks(object):
             banks = tanzanian_banks.get_regional_town_council_banks()
         """
         banks = self.get_banks()
-        return [bank for bank in banks if bank["category"] == "regional town council bank"]
+        return [
+            bank for bank in banks if bank["category"] == "regional town council bank"
+        ]
 
     def get_regional_town_municipal_banks(self):
         """
@@ -130,7 +134,9 @@ class Banks(object):
             banks = tanzanian_banks.get_regional_town_municipal_banks()
         """
         banks = self.get_banks()
-        return [bank for bank in banks if bank["category"] == "regional town municipal bank"]
+        return [
+            bank for bank in banks if bank["category"] == "regional town municipal bank"
+        ]
 
     def get_regional_town_municipal_outside_regional_capital_banks(self):
         """
@@ -144,7 +150,12 @@ class Banks(object):
             banks = tanzanian_banks.get_regional_town_municipal_outside_regional_capital_banks()
         """
         banks = self.get_banks()
-        return [bank for bank in banks if bank["category"] == "regional town municipal outside regional capital bank"]
+        return [
+            bank
+            for bank in banks
+            if bank["category"]
+            == "regional town municipal outside regional capital bank"
+        ]
 
     def get_house_financing_banks(self):
         """
@@ -186,7 +197,9 @@ class Banks(object):
             banks = tanzanian_banks.get_mortgage_financing_banks()
         """
         banks = self.get_banks()
-        return [bank for bank in banks if bank["category"] == "mortgage refinancing bank"]
+        return [
+            bank for bank in banks if bank["category"] == "mortgage refinancing bank"
+        ]
 
     def get_leasing_banks(self):
         """
@@ -245,10 +258,14 @@ class Banks(object):
             contacts = tanzanian_banks.get_bank_contacts("123")
         """
         contacts = self.get_contacts()
-        filtered_contacts = [contact for contact in contacts if contact["code"] == bank_code]
+        filtered_contacts = [
+            contact for contact in contacts if contact["code"] == bank_code
+        ]
         if filtered_contacts:
             return filtered_contacts
-        return {"message": "Wrong bank code, please check the list of all banks to know its code"}
+        return {
+            "message": "Wrong bank code, please check the list of all banks to know its code"
+        }
 
     def get_all_branches_for_all_banks(self):
         """
@@ -279,10 +296,14 @@ class Banks(object):
             branches = tanzanian_banks.get_bank_branches("123")
         """
         branches = self.get_all_branches_for_all_banks()
-        filtered_branches = [branch for branch in branches if branch["code"] == bank_code]
+        filtered_branches = [
+            branch for branch in branches if branch["code"] == bank_code
+        ]
         if filtered_branches:
             return filtered_branches
-        return {"message": "Wrong bank code, please check the list of all banks to know its code"}
+        return {
+            "message": "Wrong bank code, please check the list of all banks to know its code"
+        }
 
     def get_all_branches_for_all_banks_by_region(self, region_code: str):
         """
@@ -299,14 +320,22 @@ class Banks(object):
             branches = tanzanian_banks.get_all_branches_for_all_banks_by_region("456")
         """
         regions = self.get_regions()
-        region = next((region for region in regions if region["code"] == region_code), None)
+        region = next(
+            (region for region in regions if region["code"] == region_code), None
+        )
         if not region:
-            return {"message": "Wrong region code, please check the list of all regions to know its code"}
+            return {
+                "message": "Wrong region code, please check the list of all regions to know its code"
+            }
         branches = self.get_all_branches_for_all_banks()
-        filtered_branches = [branch for branch in branches if branch["region"] == region_code]
+        filtered_branches = [
+            branch for branch in branches if branch["region"] == region_code
+        ]
         if filtered_branches:
             return filtered_branches
-        return {"message": "Wrong region code, please check the list of all regions to know its code"}
+        return {
+            "message": "Wrong region code, please check the list of all regions to know its code"
+        }
 
     def get_bank_branches_by_region(self, bank_code: str, region_code: str):
         """
@@ -324,15 +353,24 @@ class Banks(object):
             branches = tanzanian_banks.get_bank_branches_by_region("123", "456")
         """
         regions = self.get_regions()
-        region = next((region for region in regions if region["code"] == region_code), None)
+        region = next(
+            (region for region in regions if region["code"] == region_code), None
+        )
         if not region:
-            return {"message": "Wrong region code, please check the list of all regions to know its code"}
+            return {
+                "message": "Wrong region code, please check the list of all regions to know its code"
+            }
         branches = self.get_all_branches_for_all_banks()
-        filtered_branches = [branch for branch in branches if branch["region"] == region_code and branch["code"] == bank_code]
+        filtered_branches = [
+            branch
+            for branch in branches
+            if branch["region"] == region_code and branch["code"] == bank_code
+        ]
         if filtered_branches:
             return filtered_branches
-        return {"message": "Wrong region code or bank code, please check the list of all regions and banks to know their code"}
+        return {
+            "message": "Wrong region code or bank code, please check the list of all regions and banks to know their code"
+        }
 
 
 tanzanian_banks = Banks()
-
