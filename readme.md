@@ -17,6 +17,8 @@ Tanzanian Banks is a comprehensive repository that offers insights into the bank
 ## Data Sources
 The data used in this project is sourced from reputable financial institutions, regulatory bodies, and publicly available reports. We strive to ensure the accuracy and reliability of the information provided. However, please note that the data may be subject to change and it is always recommended to verify the information from official sources.
 
+If you finnd any information to be inaccurate or outdated, feel free to open an issue.
+
 ## Features
 - Banks
 - Banks categories
@@ -103,6 +105,62 @@ print(commercial_banks)
 from tanzanian_banks import tanzanian_banks
 microfinance_banks = tanzanian_banks.get_microfinance_banks()
 print(microfinance_banks)
+```
+
+#### Retrieve Regional Town Council Banks
+
+```python
+from tanzanian_banks import tanzanian_banks
+regional_town_council_banks = tanzanian_banks.get_regional_town_council_banks()
+print(regional_town_council_banks)
+```
+
+#### Retrieve Regional Town Municipal Banks
+
+```python
+from tanzanian_banks import tanzanian_banks
+regional_town_municipal_banks = tanzanian_banks.get_regional_town_municipal_banks()
+print(regional_town_municipal_banks)
+```
+
+#### Retrieve Regional Town Municipal Banks Outside Regional Capital
+
+```python
+from tanzanian_banks import tanzanian_banks
+regional_town_municipal_outside_regional_capital_banks = tanzanian_banks.get_regional_town_municipal_outside_regional_capital_banks()
+print(regional_town_municipal_outside_regional_capital_banks)
+```
+
+#### Retrieve House Financing Banks
+
+```python
+from tanzanian_banks import tanzanian_banks
+house_financing_banks = tanzanian_banks.get_house_financing_banks()
+print(house_financing_banks)
+```
+
+#### Retrieve Mortgage Financing Banks
+
+```python
+from tanzanian_banks import tanzanian_banks
+mortgage_financing_banks = tanzanian_banks.get_mortgage_financing_banks()
+print(mortgage_financing_banks)
+```
+
+#### Retrieve Leasing Banks
+
+```python
+from tanzanian_banks import tanzanian_banks
+leasing_banks = tanzanian_banks.get_leasing_banks()
+print(leasing_banks)
+```
+
+#### Retrieve Development Banks
+
+```python
+from tanzanian_banks import tanzanian_banks
+development_banks = tanzanian_banks.get_development_banks()
+print(development_banks)
 ```
 
 ### 7. Retrieve All Branches for All Banks
