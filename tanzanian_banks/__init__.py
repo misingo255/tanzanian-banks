@@ -21,7 +21,8 @@ class Banks(object):
             dict: The data from the JSON file.
 
         Example:
-            data = self.get_file_data(self.bank_file)
+            from tanzanian_banks import tanzanian_banks
+            data = tanzanian_banks.get_file_data(self.bank_file)
         """
         with open(json_file_path, "r") as file:
             data = json.load(file)
@@ -35,6 +36,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_banks()
         """
         data = self.get_file_data(self.bank_file)
@@ -48,6 +50,7 @@ class Banks(object):
             list: A list of dictionaries containing bank contact details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             contacts = tanzanian_banks.get_contacts()
         """
         data = self.get_file_data(self.banks_contacts_file)
@@ -61,6 +64,7 @@ class Banks(object):
             list: A list of dictionaries containing region details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             regions = tanzanian_banks.get_regions()
         """
         data = self.get_file_data(self.banks_regions_file)
@@ -74,6 +78,7 @@ class Banks(object):
             list: A list of dictionaries containing bank category details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             categories = tanzanian_banks.get_categories()
         """
         data = self.get_file_data(self.banks_categories_file)
@@ -90,6 +95,7 @@ class Banks(object):
             dict: A dictionary containing bank details or an error message if the bank is not found.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             bank = tanzanian_banks.get_bank("123")
         """
         banks = self.get_banks()
@@ -106,6 +112,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_regional_town_council_banks()
         """
         banks = self.get_banks()
@@ -119,6 +126,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_regional_town_municipal_banks()
         """
         banks = self.get_banks()
@@ -132,6 +140,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_regional_town_municipal_outside_regional_capital_banks()
         """
         banks = self.get_banks()
@@ -145,6 +154,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_house_financing_banks()
         """
         banks = self.get_banks()
@@ -158,6 +168,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_commercial_banks()
         """
         banks = self.get_banks()
@@ -171,6 +182,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_mortgage_financing_banks()
         """
         banks = self.get_banks()
@@ -184,6 +196,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_leasing_banks()
         """
         banks = self.get_banks()
@@ -197,6 +210,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_development_banks()
         """
         banks = self.get_banks()
@@ -210,6 +224,7 @@ class Banks(object):
             list: A list of dictionaries containing bank details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             banks = tanzanian_banks.get_microfinance_banks()
         """
         banks = self.get_banks()
@@ -226,6 +241,7 @@ class Banks(object):
             list: A list of dictionaries containing bank contact details or an error message if the bank is not found.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             contacts = tanzanian_banks.get_bank_contacts("123")
         """
         contacts = self.get_contacts()
@@ -242,6 +258,7 @@ class Banks(object):
             list: A list of dictionaries containing branch details.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             branches = tanzanian_banks.get_all_branches_for_all_banks()
         """
         data = self.get_file_data(self.banks_branches_file)
@@ -258,6 +275,7 @@ class Banks(object):
             list: A list of dictionaries containing branch details or an error message if the bank is not found.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             branches = tanzanian_banks.get_bank_branches("123")
         """
         branches = self.get_all_branches_for_all_banks()
@@ -277,6 +295,7 @@ class Banks(object):
             list: A list of dictionaries containing branch details or an error message if the region is not found.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             branches = tanzanian_banks.get_all_branches_for_all_banks_by_region("456")
         """
         regions = self.get_regions()
@@ -301,6 +320,7 @@ class Banks(object):
             list: A list of dictionaries containing branch details or an error message if the bank or region is not found.
 
         Example:
+            from tanzanian_banks import tanzanian_banks
             branches = tanzanian_banks.get_bank_branches_by_region("123", "456")
         """
         regions = self.get_regions()
